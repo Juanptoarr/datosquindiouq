@@ -1,0 +1,4184 @@
+{
+  "Liga": [
+    {
+      "2021": 1,
+      "NOMBRE": "1 BRAYAN ANDRES",
+      "APELLIDO": "CEBALLOS JIMENEZ",
+      "TOTAL": 1
+    },
+    {
+      "2021": 2,
+      "NOMBRE": "1 CARLOS JOSE",
+      "APELLIDO": "SOSA MORENO",
+      "TOTAL": 2
+    },
+    {
+      "2013": 1,
+      "2021": 4,
+      "NOMBRE": "1 JAIRO ROY",
+      "APELLIDO": "CASTILLO ESPINOSA",
+      "2013_1": 2,
+      "TOTAL": 7
+    },
+    {
+      "2021": 2,
+      "NOMBRE": "1 JOHN HAROL",
+      "APELLIDO": "BALANTA CARABALI",
+      "TOTAL": 2
+    },
+    {
+      "2021": 2,
+      "NOMBRE": "1 LEYSER ",
+      "APELLIDO": "CHAVERRA RENTERIA",
+      "TOTAL": 2
+    },
+    {
+      "2021": 2,
+      "NOMBRE": "1 LUIS FABIAN",
+      "APELLIDO": "MINA ZAPATA",
+      "TOTAL": 2
+    },
+    {
+      "2021": 1,
+      "NOMBRE": "1 LUIS MIGUEL",
+      "APELLIDO": "CARABALI GUACALES",
+      "TOTAL": 1
+    },
+    {
+      "2021": 1,
+      "NOMBRE": "1 WILSON",
+      "APELLIDO": "ESPAÑA SOLIS",
+      "TOTAL": 1
+    },
+    {
+      "2021": 2,
+      "NOMBRE": "1 YILMAR ALEXIS",
+      "APELLIDO": "FILIGRANA POSU",
+      "TOTAL": 2
+    },
+    {
+      "1980": 9,
+      "1981": 15,
+      "1982": 5,
+      "1986": 3,
+      "NOMBRE": "ABEL AUGUSTO",
+      "APELLIDO": "LOBATON VESGAS",
+      "TOTAL": 32
+    },
+    {
+      "1965": 3,
+      "1966": 10,
+      "NOMBRE": "ADALBERTO",
+      "APELLIDO": "QUIÑONES",
+      "TOTAL": 13
+    },
+    {
+      "1995": 1,
+      "1997": 2,
+      "1999": 4,
+      "NOMBRE": "ADELMIR ",
+      "APELLIDO": "HURTADO MUÑOZ",
+      "TOTAL": 7
+    },
+    {
+      "1985": 1,
+      "1988": 1,
+      "NOMBRE": "ADOLFO DE JESUS",
+      "APELLIDO": "TELLEZ BALDOVINO",
+      "TOTAL": 2
+    },
+    {
+      "1971": 6,
+      "1976": 2,
+      "1978": 3,
+      "1981": 3,
+      "1982": 3,
+      "NOMBRE": "ADOLFO JOSE",
+      "APELLIDO": "ANDRADE CHAPARRO",
+      "TOTAL": 17
+    },
+    {
+      "1966": 4,
+      "NOMBRE": "AFRANIO",
+      "APELLIDO": "CABAL",
+      "TOTAL": 4
+    },
+    {
+      "1990": 2,
+      "NOMBRE": "AGNALDO",
+      "APELLIDO": "DA SILVA",
+      "TOTAL": 2
+    },
+    {
+      "1987": 8,
+      "1988": 7,
+      "1989": 13,
+      "1990": 8,
+      "1991": 3,
+      "NOMBRE": "ALBEIRO",
+      "APELLIDO": "VALENCIA RODRIGUEZ",
+      "TOTAL": 39
+    },
+    {
+      "1967": 2,
+      "NOMBRE": "ALBERTO",
+      "APELLIDO": "CASTRONOVO",
+      "TOTAL": 2
+    },
+    {
+      "1973": 1,
+      "NOMBRE": "ALBERTO",
+      "APELLIDO": "GOMEZ",
+      "TOTAL": 1
+    },
+    {
+      "1977": 4,
+      "NOMBRE": "ALBERTO ANTONIO",
+      "APELLIDO": "CORIA",
+      "TOTAL": 4
+    },
+    {
+      "1951": 2,
+      "NOMBRE": "ALBERTO EDMUNDO ",
+      "APELLIDO": "BELEN",
+      "TOTAL": 2
+    },
+    {
+      "2011": 2,
+      "2012": 1,
+      "2013": 2,
+      "NOMBRE": "ALDAIR",
+      "APELLIDO": "MURILLO SANMARTIN",
+      "2011_1": 1,
+      "TOTAL": 6
+    },
+    {
+      "1979": 3,
+      "1980": 3,
+      "NOMBRE": "ALDO FERNANDO",
+      "APELLIDO": "RODRIGUEZ",
+      "TOTAL": 6
+    },
+    {
+      "1955": 12,
+      "1956": 14,
+      "NOMBRE": "ALEJANDRINO",
+      "APELLIDO": "GENES",
+      "TOTAL": 26
+    },
+    {
+      "1954": 6,
+      "1955": 7,
+      "1956": 6,
+      "1957": 5,
+      "1958": 1,
+      "NOMBRE": "ALEJANDRO",
+      "APELLIDO": "CARRILLO",
+      "TOTAL": 25
+    },
+    {
+      "1994": 3,
+      "NOMBRE": "ALEJANDRO LEON",
+      "APELLIDO": "SARMIENTO HERNANDEZ",
+      "TOTAL": 3
+    },
+    {
+      "1994": 22,
+      "NOMBRE": "ALEX JAVIER",
+      "APELLIDO": "COMAS YACOMELO",
+      "TOTAL": 22
+    },
+    {
+      "2008": 1,
+      "2010": 1,
+      "NOMBRE": "ALEXANDER",
+      "APELLIDO": "MEJIA SABALSA",
+      "2008_1": 1,
+      "2009_1": 1,
+      "TOTAL": 4
+    },
+    {
+      "1997": 2,
+      "NOMBRE": "ALEXANDER",
+      "APELLIDO": "POSADA",
+      "TOTAL": 2
+    },
+    {
+      "1961": 4,
+      "1962": 3,
+      "1964": 1,
+      "NOMBRE": "ALFONSO",
+      "APELLIDO": "GONZALES",
+      "TOTAL": 8
+    },
+    {
+      "1963": 1,
+      "NOMBRE": "ALFONSO",
+      "APELLIDO": "NUÑEZ",
+      "TOTAL": 1
+    },
+    {
+      "1971": 11,
+      "1972": 22,
+      "1977": 8,
+      "NOMBRE": "ALFONSO NELSON",
+      "APELLIDO": "SILVA PACHECO",
+      "TOTAL": 41
+    },
+    {
+      "1958": 1,
+      "NOMBRE": "ALFREDO ",
+      "APELLIDO": "BONILLA",
+      "TOTAL": 1
+    },
+    {
+      "1966": 5,
+      "1967": 8,
+      "NOMBRE": "ALFREDO ",
+      "APELLIDO": "DAGA",
+      "TOTAL": 13
+    },
+    {
+      "1989": 2,
+      "NOMBRE": "ALFREDO ",
+      "APELLIDO": "FERRER CARDENAS",
+      "TOTAL": 2
+    },
+    {
+      "1951": 3,
+      "NOMBRE": "ALFREDO ",
+      "APELLIDO": "LASPINA",
+      "TOTAL": 3
+    },
+    {
+      "1962": 2,
+      "NOMBRE": "ALFREDO ",
+      "APELLIDO": "MATERON",
+      "TOTAL": 2
+    },
+    {
+      "1966": 10,
+      "1967": 9,
+      "1971": 1,
+      "NOMBRE": "ALFREDO ",
+      "APELLIDO": "SOLANO DIAZ",
+      "TOTAL": 20
+    },
+    {
+      "1986": 2,
+      "NOMBRE": "ALIRIO",
+      "APELLIDO": "GIRON",
+      "TOTAL": 2
+    },
+    {
+      "1955": 1,
+      "NOMBRE": "ALVARO",
+      "APELLIDO": "LAHIDALGA",
+      "TOTAL": 1
+    },
+    {
+      "1956": 1,
+      "1962": 1,
+      "NOMBRE": "ALVARO",
+      "APELLIDO": "MARTINEZ",
+      "TOTAL": 2
+    },
+    {
+      "1991": 4,
+      "NOMBRE": "ALVARO DANIEL",
+      "APELLIDO": "TORRES CORREDOR",
+      "TOTAL": 4
+    },
+    {
+      "2002": 1,
+      "NOMBRE": "ANDRES",
+      "APELLIDO": "CASAÑAS",
+      "TOTAL": 1
+    },
+    {
+      "2000": 1,
+      "NOMBRE": "ANDRES",
+      "APELLIDO": "GARRONE",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "ANDRES FELIPE",
+      "APELLIDO": "CASAÑAS SANCLEMENTE",
+      "2003_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "ANDRES FELIPE",
+      "APELLIDO": "GUAPACHA OROZCO",
+      "2003_1": 2,
+      "TOTAL": 2
+    },
+    {
+      "1999": 1,
+      "NOMBRE": "ANDRES FELIPE",
+      "APELLIDO": "OROZCO",
+      "TOTAL": 1
+    },
+    {
+      "1998": 1,
+      "1999": 2,
+      "NOMBRE": "ANDRES FELIPE",
+      "APELLIDO": "RODRIGUEZ CARDONA",
+      "TOTAL": 3
+    },
+    {
+      "NOMBRE": "ANDRES MAURICIO",
+      "APELLIDO": "MOLINA MARTINEZ",
+      "2004_1": 4,
+      "TOTAL": 4
+    },
+    {
+      "NOMBRE": "ANDRES MIGUEL",
+      "APELLIDO": "FORMENTO",
+      "2011_1": 4,
+      "TOTAL": 4
+    },
+    {
+      "1961": 11,
+      "1962": 13,
+      "NOMBRE": "ANDRONICO",
+      "APELLIDO": "CEJAS",
+      "TOTAL": 24
+    },
+    {
+      "1958": 1,
+      "1959": 1,
+      "1960": 5,
+      "1961": 3,
+      "1962": 5,
+      "NOMBRE": "ANTONIO",
+      "APELLIDO": "HURTADO",
+      "TOTAL": 15
+    },
+    {
+      "1959": 2,
+      "NOMBRE": "ANTONIO LUIS",
+      "APELLIDO": "GIACOME",
+      "TOTAL": 2
+    },
+    {
+      "1957": 1,
+      "1958": 1,
+      "NOMBRE": "ANTONIO MARIA",
+      "APELLIDO": "LOPEZ",
+      "TOTAL": 2
+    },
+    {
+      "1982": 7,
+      "1983": 1,
+      "NOMBRE": "ARIEL",
+      "APELLIDO": "VALENCIANO GALARZA",
+      "TOTAL": 8
+    },
+    {
+      "1991": 11,
+      "NOMBRE": "ARIEL MARIO",
+      "APELLIDO": "ARE",
+      "TOTAL": 11
+    },
+    {
+      "1972": 4,
+      "NOMBRE": "ARMANDO",
+      "APELLIDO": "MIRANDA",
+      "TOTAL": 4
+    },
+    {
+      "1955": 10,
+      "NOMBRE": "ARNULFO",
+      "APELLIDO": "CRUZ",
+      "TOTAL": 10
+    },
+    {
+      "1979": 1,
+      "1980": 1,
+      "NOMBRE": "AUGUSTO",
+      "APELLIDO": "RANGEL",
+      "TOTAL": 2
+    },
+    {
+      "1986": 1,
+      "1987": 1,
+      "1989": 1,
+      "1990": 2,
+      "NOMBRE": "AUGUSTO",
+      "APELLIDO": "VARGAS CORTES",
+      "TOTAL": 5
+    },
+    {
+      "1962": 8,
+      "1963": 1,
+      "NOMBRE": "AURELIO",
+      "APELLIDO": "SILVA",
+      "TOTAL": 9
+    },
+    {
+      "1993": 1,
+      "NOMBRE": "AUREO ANDRE",
+      "APELLIDO": "BOENO GIL",
+      "TOTAL": 1
+    },
+    {
+      "2002": 2,
+      "NOMBRE": "AVIMILED",
+      "APELLIDO": "RIVAS QUINTERO",
+      "TOTAL": 2
+    },
+    {
+      "1962": 2,
+      "NOMBRE": "BENITO",
+      "APELLIDO": "GALEANO",
+      "TOTAL": 2
+    },
+    {
+      "1995": 2,
+      "1996": 13,
+      "1997": 10,
+      "NOMBRE": "BERNARDO",
+      "APELLIDO": "REDIN VALVERDE",
+      "TOTAL": 25
+    },
+    {
+      "1979": 1,
+      "NOMBRE": "CARLOS",
+      "APELLIDO": "BARONA",
+      "TOTAL": 1
+    },
+    {
+      "1964": 2,
+      "NOMBRE": "CARLOS",
+      "APELLIDO": "BUITRAGO",
+      "TOTAL": 2
+    },
+    {
+      "1957": 6,
+      "NOMBRE": "CARLOS",
+      "APELLIDO": "JIMENEZ",
+      "TOTAL": 6
+    },
+    {
+      "1984": 5,
+      "NOMBRE": "CARLOS",
+      "APELLIDO": "LANCELLOTI BASILIO",
+      "TOTAL": 5
+    },
+    {
+      "1983": 2,
+      "1984": 2,
+      "NOMBRE": "CARLOS ALBEIRO",
+      "APELLIDO": "MOSQUERA",
+      "TOTAL": 4
+    },
+    {
+      "1967": 1,
+      "1968": 1,
+      "NOMBRE": "CARLOS ALBERTO",
+      "APELLIDO": "GAVIRIA CASTRO",
+      "TOTAL": 2
+    },
+    {
+      "1977": 1,
+      "NOMBRE": "CARLOS ALBERTO",
+      "APELLIDO": "LUGO",
+      "TOTAL": 1
+    },
+    {
+      "1999": 2,
+      "NOMBRE": "CARLOS ALBERTO",
+      "APELLIDO": "ORTIZ BLANDON",
+      "TOTAL": 2
+    },
+    {
+      "1991": 2,
+      "1994": 2,
+      "1995": 4,
+      "1996": 2,
+      "NOMBRE": "CARLOS ALBERTO",
+      "APELLIDO": "TREJOS VARELA",
+      "TOTAL": 10
+    },
+    {
+      "1979": 5,
+      "NOMBRE": "CARLOS ALBERTO",
+      "APELLIDO": "UBEDA",
+      "TOTAL": 5
+    },
+    {
+      "1998": 21,
+      "2009": 2,
+      "2010": 1,
+      "NOMBRE": "CARLOS ANDRES",
+      "APELLIDO": "RODAS MONTOYA",
+      "2008_1": 2,
+      "2009_1": 7,
+      "2010_1": 10,
+      "TOTAL": 43
+    },
+    {
+      "1997": 1,
+      "1998": 3,
+      "NOMBRE": "CARLOS ARLEY",
+      "APELLIDO": "SANDOVAL",
+      "TOTAL": 4
+    },
+    {
+      "1988": 1,
+      "1989": 1,
+      "1990": 1,
+      "1991": 1,
+      "NOMBRE": "CARLOS ARTURO",
+      "APELLIDO": "PELAEZ RAMIREZ",
+      "TOTAL": 4
+    },
+    {
+      "1990": 9,
+      "1991": 5,
+      "1992": 2,
+      "NOMBRE": "CARLOS ARTURO",
+      "APELLIDO": "ZUÑIGA MURILLO",
+      "TOTAL": 16
+    },
+    {
+      "1992": 1,
+      "NOMBRE": "CARLOS CESAR",
+      "APELLIDO": "CASTRO VARON",
+      "TOTAL": 1
+    },
+    {
+      "2005": 2,
+      "NOMBRE": "CARLOS DANIEL",
+      "APELLIDO": "HIDALGO CADENA",
+      "2005_1": 4,
+      "TOTAL": 6
+    },
+    {
+      "NOMBRE": "CARLOS EDUARDO",
+      "APELLIDO": "ORTIZ SALAZAR",
+      "2006_1": 2,
+      "TOTAL": 2
+    },
+    {
+      "1995": 5,
+      "1996": 16,
+      "1997": 4,
+      "NOMBRE": "CARLOS EDUARDO",
+      "APELLIDO": "RENDON",
+      "TOTAL": 25
+    },
+    {
+      "1977": 2,
+      "NOMBRE": "CARLOS EMILIO",
+      "APELLIDO": "RENDON ARANGO",
+      "TOTAL": 2
+    },
+    {
+      "NOMBRE": "CARLOS ENRIQUE",
+      "APELLIDO": "GUTIERREZ ORTEGA",
+      "2005_1": 3,
+      "TOTAL": 3
+    },
+    {
+      "1963": 2,
+      "1964": 3,
+      "1965": 2,
+      "NOMBRE": "CARLOS HERNAN",
+      "APELLIDO": "PANTOJA",
+      "TOTAL": 7
+    },
+    {
+      "NOMBRE": "CARLOS HUMBERTO",
+      "APELLIDO": "GONZALES",
+      "2004_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "2011": 1,
+      "NOMBRE": "CARLOS JULIO",
+      "APELLIDO": "ROBLES ROCHA",
+      "TOTAL": 1
+    },
+    {
+      "1992": 1,
+      "NOMBRE": "CARLOS MARIANO",
+      "APELLIDO": "MOLINA PINO",
+      "TOTAL": 1
+    },
+    {
+      "1997": 1,
+      "NOMBRE": "CARLOS MARIO",
+      "APELLIDO": "ALVAREZ",
+      "TOTAL": 1
+    },
+    {
+      "1992": 1,
+      "NOMBRE": "CARLOS MARIO",
+      "APELLIDO": "HOYOS JARAMILLO",
+      "TOTAL": 1
+    },
+    {
+      "1983": 4,
+      "1984": 1,
+      "NOMBRE": "CARLOS RUBEN",
+      "APELLIDO": "SALAS",
+      "TOTAL": 5
+    },
+    {
+      "2011": 1,
+      "NOMBRE": "CELIMO JONIER",
+      "APELLIDO": "POLO PEREZ",
+      "TOTAL": 1
+    },
+    {
+      "1981": 1,
+      "NOMBRE": "CESAR AUGUSTO",
+      "APELLIDO": "DE LA HIZ BARRAZA",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "CESAR FABIAN",
+      "APELLIDO": "MORALES MORALES",
+      "2002_1": 2,
+      "2006_1": 1,
+      "TOTAL": 3
+    },
+    {
+      "1983": 1,
+      "NOMBRE": "CLAUDIO HUGO",
+      "APELLIDO": "SUAREZ",
+      "TOTAL": 1
+    },
+    {
+      "2002": 3,
+      "NOMBRE": "CRISTIAN EDGARDO",
+      "APELLIDO": "DAGUERRE SALTO",
+      "2002_1": 2,
+      "TOTAL": 5
+    },
+    {
+      "1997": 1,
+      "NOMBRE": "DALADIER",
+      "APELLIDO": "CEBALLOS",
+      "TOTAL": 1
+    },
+    {
+      "1995": 8,
+      "1996": 13,
+      "1997": 5,
+      "NOMBRE": "DANIEL ALBERTO",
+      "APELLIDO": "TILGER NAHUEL",
+      "TOTAL": 26
+    },
+    {
+      "2008": 7,
+      "2009": 5,
+      "NOMBRE": "DANNY MANUEL",
+      "APELLIDO": "SANTOYA OTERO",
+      "2008_1": 6,
+      "2009_1": 7,
+      "2013_1": 1,
+      "TOTAL": 26
+    },
+    {
+      "1964": 6,
+      "NOMBRE": "DANTE RAMON",
+      "APELLIDO": "ALVAREZ",
+      "TOTAL": 6
+    },
+    {
+      "1999": 8,
+      "NOMBRE": "DARIO",
+      "APELLIDO": "SIERRA",
+      "TOTAL": 8
+    },
+    {
+      "1965": 3,
+      "1966": 7,
+      "NOMBRE": "DARIO",
+      "APELLIDO": "VASQUEZ",
+      "TOTAL": 10
+    },
+    {
+      "2004": 1,
+      "NOMBRE": "DARIO DAMIAN",
+      "APELLIDO": "FIGUEROA",
+      "TOTAL": 1
+    },
+    {
+      "1985": 8,
+      "1986": 9,
+      "1987": 10,
+      "1988": 7,
+      "1989": 11,
+      "1990": 1,
+      "NOMBRE": "DARIO JOSE",
+      "APELLIDO": "CAMPAGNA ROLDAN",
+      "TOTAL": 46
+    },
+    {
+      "NOMBRE": "DAVID DE JESUS",
+      "APELLIDO": "HERNANDEZ",
+      "2002_1": 2,
+      "TOTAL": 2
+    },
+    {
+      "2000": 1,
+      "NOMBRE": "DIEGO",
+      "APELLIDO": "ALZATE",
+      "TOTAL": 1
+    },
+    {
+      "1998": 1,
+      "NOMBRE": "DIEGO FERNANDO",
+      "APELLIDO": "CORTES BERNAL",
+      "2002_1": 1,
+      "2004_1": 1,
+      "TOTAL": 3
+    },
+    {
+      "2007": 1,
+      "2008": 1,
+      "NOMBRE": "DIEGO FERNEY",
+      "APELLIDO": "CHARA ZAMORA",
+      "2007_1": 1,
+      "TOTAL": 3
+    },
+    {
+      "1984": 5,
+      "NOMBRE": "DIEGO MARTIN",
+      "APELLIDO": "ASPRILLA HINESTROZA",
+      "TOTAL": 5
+    },
+    {
+      "1966": 1,
+      "NOMBRE": "DIOGENES",
+      "APELLIDO": "MARTINEZ",
+      "TOTAL": 1
+    },
+    {
+      "1976": 4,
+      "1977": 1,
+      "NOMBRE": "DOMINGO",
+      "APELLIDO": "GONZALES ARBOLEDA",
+      "TOTAL": 5
+    },
+    {
+      "1977": 2,
+      "NOMBRE": "EDGAR",
+      "APELLIDO": "ANGULO BUENO",
+      "TOTAL": 2
+    },
+    {
+      "NOMBRE": "EDGAR OMAR",
+      "APELLIDO": "SANTACRUZ",
+      "2005_1": 4,
+      "TOTAL": 4
+    },
+    {
+      "1990": 1,
+      "1992": 1,
+      "NOMBRE": "EDILBERTO",
+      "APELLIDO": "GONZALES HERRERA",
+      "TOTAL": 2
+    },
+    {
+      "1975": 2,
+      "NOMBRE": "EDILMO",
+      "APELLIDO": "PAREDES",
+      "TOTAL": 2
+    },
+    {
+      "1964": 7,
+      "1965": 18,
+      "1966": 9,
+      "1970": 3,
+      "1975": 3,
+      "NOMBRE": "EDISON ",
+      "APELLIDO": "ANGULO RENTERIA",
+      "TOTAL": 40
+    },
+    {
+      "2003": 2,
+      "NOMBRE": "EDISON ",
+      "APELLIDO": "MAFLA PEÑA",
+      "TOTAL": 2
+    },
+    {
+      "2007": 4,
+      "NOMBRE": "EDISON ",
+      "APELLIDO": "TOLOZA COLORADO",
+      "2007_1": 9,
+      "TOTAL": 13
+    },
+    {
+      "2002": 5,
+      "NOMBRE": "EDIXON",
+      "APELLIDO": "PEREA",
+      "TOTAL": 5
+    },
+    {
+      "NOMBRE": "EDU MARINO",
+      "APELLIDO": "APONZA CARBONERO",
+      "2004_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1968": 1,
+      "NOMBRE": "EDUARDO",
+      "APELLIDO": "HERRERA",
+      "TOTAL": 1
+    },
+    {
+      "1983": 1,
+      "NOMBRE": "EDUARDO ENRIQUE",
+      "APELLIDO": "QUIROGA",
+      "TOTAL": 1
+    },
+    {
+      "1967": 10,
+      "1968": 5,
+      "NOMBRE": "EDUARDO ERNESTO",
+      "APELLIDO": "CASSI",
+      "TOTAL": 15
+    },
+    {
+      "1999": 2,
+      "NOMBRE": "EDWIN ESNEIDER",
+      "APELLIDO": "CARMONA",
+      "TOTAL": 2
+    },
+    {
+      "NOMBRE": "EFRAIM ",
+      "APELLIDO": "CORTES GRUESSO",
+      "2005_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1951": 20,
+      "1952": 16,
+      "1953": 13,
+      "1954": 8,
+      "NOMBRE": "ELGER PAOLO",
+      "APELLIDO": "ALARCON",
+      "TOTAL": 57
+    },
+    {
+      "1957": 1,
+      "1958": 2,
+      "1959": 1,
+      "1961": 1,
+      "1962": 2,
+      "NOMBRE": "ELIECER",
+      "APELLIDO": "DUQUE",
+      "TOTAL": 7
+    },
+    {
+      "1966": 5,
+      "NOMBRE": "ELISEO",
+      "APELLIDO": "INSFRAN",
+      "TOTAL": 5
+    },
+    {
+      "1997": 1,
+      "1998": 1,
+      "1999": 1,
+      "2010": 2,
+      "NOMBRE": "ELKIN ANTONIO",
+      "APELLIDO": "MURILLO AMOR",
+      "2010_1": 5,
+      "TOTAL": 10
+    },
+    {
+      "1978": 1,
+      "NOMBRE": "ELKIN OVIDIO",
+      "APELLIDO": "CONGOTE ESTRADA",
+      "TOTAL": 1
+    },
+    {
+      "2002": 1,
+      "NOMBRE": "ELMER EMIDIO",
+      "APELLIDO": "CAVICHE MINA",
+      "TOTAL": 1
+    },
+    {
+      "1964": 5,
+      "NOMBRE": "EMILIANO",
+      "APELLIDO": "GOMEZ",
+      "TOTAL": 5
+    },
+    {
+      "1983": 1,
+      "NOMBRE": "ENRIQUE ALBERTO",
+      "APELLIDO": "PERALTA",
+      "TOTAL": 1
+    },
+    {
+      "1978": 5,
+      "NOMBRE": "ERNESTO JUAN",
+      "APELLIDO": "ALVAREZ GONZALES",
+      "TOTAL": 5
+    },
+    {
+      "1998": 8,
+      "NOMBRE": "EUDALIO ULISES",
+      "APELLIDO": "ARRIAGA",
+      "TOTAL": 8
+    },
+    {
+      "1989": 2,
+      "NOMBRE": "EUGENES ",
+      "APELLIDO": "CUADRADO ESCALLON",
+      "TOTAL": 2
+    },
+    {
+      "1967": 14,
+      "1968": 1,
+      "NOMBRE": "EUSEBIO",
+      "APELLIDO": "ESCOBAR",
+      "TOTAL": 15
+    },
+    {
+      "1984": 5,
+      "1985": 2,
+      "NOMBRE": "EUSEBIO",
+      "APELLIDO": "VERA LIMA",
+      "TOTAL": 7
+    },
+    {
+      "1962": 1,
+      "NOMBRE": "EVER",
+      "APELLIDO": "SANCHEZ",
+      "TOTAL": 1
+    },
+    {
+      "2012": 1,
+      "NOMBRE": "FAINER",
+      "APELLIDO": "TORIJANO CANO",
+      "2010_1": 2,
+      "2012_1": 1,
+      "TOTAL": 4
+    },
+    {
+      "1986": 1,
+      "NOMBRE": "FEDERICO DE JESUS",
+      "APELLIDO": "VALENCIA RIVAS",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "FEIVER ALONSO",
+      "APELLIDO": "MERCADO GALERA",
+      "2009_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "FERLEY RAUL",
+      "APELLIDO": "VILLAMIL",
+      "2002_1": 3,
+      "2003_1": 1,
+      "TOTAL": 4
+    },
+    {
+      "1966": 11,
+      "1967": 5,
+      "NOMBRE": "FERNANDO",
+      "APELLIDO": "LOPEZ",
+      "TOTAL": 16
+    },
+    {
+      "2002": 2,
+      "NOMBRE": "FERNANDO ANIBAL",
+      "APELLIDO": "PEREZ",
+      "2002_1": 1,
+      "TOTAL": 3
+    },
+    {
+      "1975": 3,
+      "NOMBRE": "FRANCISCO",
+      "APELLIDO": "BENITEZ",
+      "TOTAL": 3
+    },
+    {
+      "1999": 1,
+      "NOMBRE": "FRANCISCO",
+      "APELLIDO": "CASSIANI",
+      "TOTAL": 1
+    },
+    {
+      "1961": 1,
+      "NOMBRE": "FRANCISCO",
+      "APELLIDO": "CASTROPP",
+      "TOTAL": 1
+    },
+    {
+      "1955": 5,
+      "1956": 15,
+      "1959": 9,
+      "1960": 7,
+      "NOMBRE": "FRANCISCO",
+      "APELLIDO": "SOLANO PATIÑO",
+      "TOTAL": 36
+    },
+    {
+      "1991": 2,
+      "NOMBRE": "FRANCISCO",
+      "APELLIDO": "WITTINGHAN LOPEZ",
+      "TOTAL": 2
+    },
+    {
+      "1976": 3,
+      "NOMBRE": "FRANCISCO JAVIER",
+      "APELLIDO": "GUERRERO LEVANCINI",
+      "TOTAL": 3
+    },
+    {
+      "1997": 1,
+      "1998": 1,
+      "NOMBRE": "FRANK GENTIL",
+      "APELLIDO": "RENGIFO",
+      "TOTAL": 2
+    },
+    {
+      "1995": 3,
+      "NOMBRE": "FRANKIE",
+      "APELLIDO": "OVIEDO",
+      "TOTAL": 3
+    },
+    {
+      "1990": 3,
+      "NOMBRE": "FRANKLIN ANTONIO",
+      "APELLIDO": "CETRÉ BECERRA",
+      "TOTAL": 3
+    },
+    {
+      "1983": 1,
+      "1989": 6,
+      "1990": 6,
+      "1991": 1,
+      "1992": 8,
+      "1994": 2,
+      "NOMBRE": "FRANKLIN DE JESUS",
+      "APELLIDO": "BALDOVINO SERRANO",
+      "TOTAL": 24
+    },
+    {
+      "1972": 1,
+      "NOMBRE": "FREDDY",
+      "APELLIDO": "ECHANDIA",
+      "TOTAL": 1
+    },
+    {
+      "2002": 1,
+      "NOMBRE": "FREDDY ALBERTO",
+      "APELLIDO": "LEON",
+      "TOTAL": 1
+    },
+    {
+      "1968": 1,
+      "NOMBRE": "FREDDY HUMBERTO",
+      "APELLIDO": "GIL",
+      "TOTAL": 1
+    },
+    {
+      "1963": 2,
+      "NOMBRE": "GASTON",
+      "APELLIDO": "MALAGON",
+      "TOTAL": 2
+    },
+    {
+      "1970": 11,
+      "NOMBRE": "GENTIL DE JESUS",
+      "APELLIDO": "SERPA GRIMALDO",
+      "TOTAL": 11
+    },
+    {
+      "1975": 2,
+      "NOMBRE": "GERARDO",
+      "APELLIDO": "LATERZA",
+      "TOTAL": 2
+    },
+    {
+      "1995": 2,
+      "NOMBRE": "GERSON",
+      "APELLIDO": "ENOR VOSG",
+      "TOTAL": 2
+    },
+    {
+      "1995": 1,
+      "NOMBRE": "GERSON",
+      "APELLIDO": "PAZ",
+      "TOTAL": 1
+    },
+    {
+      "1987": 3,
+      "1988": 10,
+      "NOMBRE": "GILMAR",
+      "APELLIDO": "APONZA CARBONERO",
+      "TOTAL": 13
+    },
+    {
+      "1994": 3,
+      "NOMBRE": "GILMAR",
+      "APELLIDO": "DA SILVA DE OLIVEIRA",
+      "TOTAL": 3
+    },
+    {
+      "1970": 2,
+      "NOMBRE": "GONZALO",
+      "APELLIDO": "GUZMAN",
+      "TOTAL": 2
+    },
+    {
+      "1983": 1,
+      "NOMBRE": "GONZALO ARTURO",
+      "APELLIDO": "SANCHEZ",
+      "TOTAL": 1
+    },
+    {
+      "1962": 3,
+      "NOMBRE": "GUILLERMO",
+      "APELLIDO": "MATERON",
+      "TOTAL": 3
+    },
+    {
+      "1968": 1,
+      "NOMBRE": "GUILLERMO",
+      "APELLIDO": "VASQUEZ",
+      "TOTAL": 1
+    },
+    {
+      "1957": 1,
+      "NOMBRE": "GUIOMAR",
+      "APELLIDO": "ROJAS",
+      "TOTAL": 1
+    },
+    {
+      "2000": 1,
+      "2002": 1,
+      "NOMBRE": "GUSTAVO",
+      "APELLIDO": "AYALA",
+      "TOTAL": 2
+    },
+    {
+      "2000": 4,
+      "NOMBRE": "GUSTAVO ADOLFO",
+      "APELLIDO": "CABRERA",
+      "TOTAL": 4
+    },
+    {
+      "2013": 1,
+      "NOMBRE": "GUSTAVO JAVIER",
+      "APELLIDO": "BISCAYZACU PEREA",
+      "TOTAL": 1
+    },
+    {
+      "2012": 2,
+      "NOMBRE": "HAMILTON",
+      "APELLIDO": "RICARD",
+      "2011_1": 8,
+      "TOTAL": 10
+    },
+    {
+      "2008": 1,
+      "2010": 1,
+      "NOMBRE": "HANYER LUIS",
+      "APELLIDO": "MOSQUERA CORDOBA",
+      "2009_1": 2,
+      "TOTAL": 4
+    },
+    {
+      "2000": 3,
+      "NOMBRE": "HARRY",
+      "APELLIDO": "CUESTA",
+      "TOTAL": 3
+    },
+    {
+      "1968": 4,
+      "1970": 5,
+      "NOMBRE": "HARVEY",
+      "APELLIDO": "COLONIA",
+      "TOTAL": 9
+    },
+    {
+      "1971": 5,
+      "1972": 4,
+      "NOMBRE": "HEBERTH",
+      "APELLIDO": "BARONA",
+      "TOTAL": 9
+    },
+    {
+      "1979": 5,
+      "1980": 3,
+      "NOMBRE": "HEBERTH",
+      "APELLIDO": "GONZALES SANCHEZ",
+      "TOTAL": 8
+    },
+    {
+      "1962": 1,
+      "NOMBRE": "HECTOR",
+      "APELLIDO": "BRITTEZ",
+      "TOTAL": 1
+    },
+    {
+      "1976": 4,
+      "NOMBRE": "HECTOR DANIEL",
+      "APELLIDO": "LOPEZ",
+      "TOTAL": 4
+    },
+    {
+      "1996": 4,
+      "1997": 1,
+      "NOMBRE": "HECTOR HUGO",
+      "APELLIDO": "HURTADO SALAZAR",
+      "TOTAL": 5
+    },
+    {
+      "1977": 2,
+      "1978": 3,
+      "1979": 1,
+      "NOMBRE": "HECTOR HUGO",
+      "APELLIDO": "OSTOS DIAZ",
+      "TOTAL": 6
+    },
+    {
+      "1959": 2,
+      "1960": 6,
+      "NOMBRE": "HECTOR INOCENCIO",
+      "APELLIDO": "PEREZ",
+      "TOTAL": 8
+    },
+    {
+      "1976": 1,
+      "NOMBRE": "HECTOR MARIO",
+      "APELLIDO": "BENTRON DEL LUQUE",
+      "TOTAL": 1
+    },
+    {
+      "1958": 1,
+      "1959": 1,
+      "1960": 2,
+      "1961": 1,
+      "NOMBRE": "HELMO",
+      "APELLIDO": "PALOMINO",
+      "TOTAL": 5
+    },
+    {
+      "1988": 1,
+      "NOMBRE": "HENRY",
+      "APELLIDO": "OTERO CORDOBA",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "HENRY DE JESUS",
+      "APELLIDO": "VASQUEZ ESCORCIA",
+      "2003_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "2004": 3,
+      "NOMBRE": "HERNAN DARIO",
+      "APELLIDO": "CARDONA PULGARIN",
+      "TOTAL": 3
+    },
+    {
+      "NOMBRE": "HERNAN DARIO",
+      "APELLIDO": "REINOLDS",
+      "2003_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1981": 12,
+      "1985": 2,
+      "NOMBRE": "HERNAN DARIO",
+      "APELLIDO": "VILLA",
+      "TOTAL": 14
+    },
+    {
+      "2013": 1,
+      "NOMBRE": "HERNANDO",
+      "APELLIDO": "PATIÑO ALVAREZ",
+      "TOTAL": 1
+    },
+    {
+      "1971": 10,
+      "NOMBRE": "HERNANDO",
+      "APELLIDO": "PIÑEROS",
+      "TOTAL": 10
+    },
+    {
+      "2011": 1,
+      "2012": 3,
+      "NOMBRE": "HILTON",
+      "APELLIDO": "MURILLO SANMARTIN",
+      "2010_1": 2,
+      "2011_1": 4,
+      "2012_1": 3,
+      "TOTAL": 13
+    },
+    {
+      "1962": 4,
+      "NOMBRE": "HIPOLITO",
+      "APELLIDO": "VILLAMAYOR",
+      "TOTAL": 4
+    },
+    {
+      "1969": 12,
+      "1970": 7,
+      "1971": 4,
+      "1972": 6,
+      "NOMBRE": "HOMERO",
+      "APELLIDO": "NIVALDO PEIXOTO",
+      "TOTAL": 29
+    },
+    {
+      "1973": 3,
+      "1975": 1,
+      "1976": 8,
+      "1982": 1,
+      "NOMBRE": "HORACIO",
+      "APELLIDO": "FERRIN MARTINEZ",
+      "TOTAL": 13
+    },
+    {
+      "1970": 1,
+      "NOMBRE": "HORACIO ALFREDO",
+      "APELLIDO": "GOMEZ",
+      "TOTAL": 1
+    },
+    {
+      "2004": 2,
+      "2005": 7,
+      "NOMBRE": "HUGO",
+      "APELLIDO": "RODALLEGA MARTINEZ",
+      "2004_1": 11,
+      "TOTAL": 20
+    },
+    {
+      "1984": 1,
+      "NOMBRE": "HUGO ALBERTO",
+      "APELLIDO": "GALEANO VASQUEZ",
+      "TOTAL": 1
+    },
+    {
+      "1995": 7,
+      "1996": 1,
+      "1997": 3,
+      "NOMBRE": "HUGO ARMANDO",
+      "APELLIDO": "GALLO HINCAPIE",
+      "TOTAL": 11
+    },
+    {
+      "1977": 7,
+      "1978": 8,
+      "NOMBRE": "HUGO DANIEL",
+      "APELLIDO": "PROMANZIO",
+      "TOTAL": 15
+    },
+    {
+      "2008": 13,
+      "NOMBRE": "IVAN JOSE",
+      "APELLIDO": "VELASQUEZ WILCHES",
+      "2007_1": 6,
+      "TOTAL": 19
+    },
+    {
+      "NOMBRE": "IVAN RENE",
+      "APELLIDO": "VALENCIANO PEREZ",
+      "2003_1": 4,
+      "TOTAL": 4
+    },
+    {
+      "NOMBRE": "IVAN RODRIGO",
+      "APELLIDO": "TRUJILLO",
+      "2009_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1965": 7,
+      "NOMBRE": "JACINTO",
+      "APELLIDO": "MERAYO",
+      "TOTAL": 7
+    },
+    {
+      "NOMBRE": "JACQUES",
+      "APELLIDO": "CARVHALO DE OLIVEIRA",
+      "2003_1": 3,
+      "TOTAL": 3
+    },
+    {
+      "1969": 1,
+      "1970": 2,
+      "NOMBRE": "JAIME",
+      "APELLIDO": "BOLAÑOS",
+      "TOTAL": 3
+    },
+    {
+      "1952": 15,
+      "1953": 12,
+      "1954": 7,
+      "1955": 9,
+      "1956": 19,
+      "1960": 7,
+      "NOMBRE": "JAIME",
+      "APELLIDO": "GUTIERREZ",
+      "TOTAL": 69
+    },
+    {
+      "1983": 1,
+      "NOMBRE": "JAIME",
+      "APELLIDO": "MORON LEON",
+      "TOTAL": 1
+    },
+    {
+      "2012": 1,
+      "NOMBRE": "JAINE ESTIVEN",
+      "APELLIDO": "BARREIRO SOLIS",
+      "2013_1": 1,
+      "TOTAL": 2
+    },
+    {
+      "1990": 3,
+      "NOMBRE": "JAIR ",
+      "APELLIDO": "ABONIA",
+      "TOTAL": 3
+    },
+    {
+      "1983": 1,
+      "NOMBRE": "JAIRO ",
+      "APELLIDO": "RINCON",
+      "TOTAL": 1
+    },
+    {
+      "1986": 2,
+      "NOMBRE": "JAIRO ",
+      "APELLIDO": "TORRES",
+      "TOTAL": 2
+    },
+    {
+      "1995": 2,
+      "1998": 5,
+      "NOMBRE": "JAMES ",
+      "APELLIDO": "ANGULO ZAMORA",
+      "TOTAL": 7
+    },
+    {
+      "1990": 1,
+      "NOMBRE": "JAMES ",
+      "APELLIDO": "PADILLA GARCIA",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "JAMES JERLEY",
+      "APELLIDO": "LOPEZ GALEANO",
+      "2003_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1982": 1,
+      "NOMBRE": "JAMIR CENITH",
+      "APELLIDO": "CARABALI BANGUERO",
+      "TOTAL": 1
+    },
+    {
+      "1976": 2,
+      "NOMBRE": "JANIO ALDEMAR",
+      "APELLIDO": "CABEZAS VALOY",
+      "TOTAL": 2
+    },
+    {
+      "1979": 6,
+      "1981": 2,
+      "NOMBRE": "JAVIER ANTONIO",
+      "APELLIDO": "TAMAYO HOYOS",
+      "TOTAL": 8
+    },
+    {
+      "2000": 5,
+      "NOMBRE": "JHONNY",
+      "APELLIDO": "MEZA",
+      "TOTAL": 5
+    },
+    {
+      "2009": 2,
+      "NOMBRE": "JOHN BELMER",
+      "APELLIDO": "AGUILAR",
+      "TOTAL": 2
+    },
+    {
+      "1995": 3,
+      "NOMBRE": "JOHN EDISON",
+      "APELLIDO": "CASTAÑO ORTIZ",
+      "TOTAL": 3
+    },
+    {
+      "2011": 1,
+      "NOMBRE": "JOHN EDUARD",
+      "APELLIDO": "VALOY RIASCOS",
+      "2010_1": 1,
+      "2011_1": 2,
+      "TOTAL": 4
+    },
+    {
+      "1998": 4,
+      "NOMBRE": "JOHN JAIME",
+      "APELLIDO": "GOMEZ",
+      "TOTAL": 4
+    },
+    {
+      "2007": 4,
+      "NOMBRE": "JOHN JAIRO",
+      "APELLIDO": "VALENCIA ORTIZ",
+      "2005_1": 2,
+      "TOTAL": 6
+    },
+    {
+      "1995": 1,
+      "NOMBRE": "JOHN MARIO",
+      "APELLIDO": "PEREZ VELILLA",
+      "TOTAL": 1
+    },
+    {
+      "2000": 1,
+      "NOMBRE": "JORGE",
+      "APELLIDO": "BARRENECHE",
+      "TOTAL": 1
+    },
+    {
+      "1999": 12,
+      "NOMBRE": "JORGE",
+      "APELLIDO": "DIAZ MORENO",
+      "TOTAL": 12
+    },
+    {
+      "1990": 2,
+      "1994": 1,
+      "NOMBRE": "JORGE",
+      "APELLIDO": "GUTIERREZ SERNA",
+      "TOTAL": 3
+    },
+    {
+      "1968": 3,
+      "NOMBRE": "JORGE",
+      "APELLIDO": "HURTADO",
+      "TOTAL": 3
+    },
+    {
+      "1967": 4,
+      "1968": 9,
+      "1969": 2,
+      "1971": 2,
+      "1972": 4,
+      "1973": 2,
+      "1974": 1,
+      "NOMBRE": "JORGE",
+      "APELLIDO": "RAMIREZ",
+      "TOTAL": 24
+    },
+    {
+      "1982": 4,
+      "NOMBRE": "JORGE ALBERTO",
+      "APELLIDO": "ARIZA RODRIGUEZ",
+      "TOTAL": 4
+    },
+    {
+      "1984": 1,
+      "NOMBRE": "JORGE ALBERTO",
+      "APELLIDO": "CAÑAS ROJAS",
+      "TOTAL": 1
+    },
+    {
+      "1986": 3,
+      "NOMBRE": "JORGE ALBERTO",
+      "APELLIDO": "RAIGOZA PULGARIN",
+      "TOTAL": 3
+    },
+    {
+      "1985": 15,
+      "1986": 18,
+      "NOMBRE": "JORGE ALBERTO",
+      "APELLIDO": "TAVERNA ELEONARI",
+      "TOTAL": 33
+    },
+    {
+      "1969": 4,
+      "1972": 1,
+      "1973": 1,
+      "1975": 1,
+      "1977": 2,
+      "1978": 2,
+      "1979": 4,
+      "1981": 1,
+      "NOMBRE": "JORGE ENRIQUE",
+      "APELLIDO": "BERMUDEZ MELO",
+      "TOTAL": 16
+    },
+    {
+      "2004": 1,
+      "NOMBRE": "JORGE ENRIQUE",
+      "APELLIDO": "HERRERA SUAREZ",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "JORGE ENRIQUE",
+      "APELLIDO": "PARRA GARCES",
+      "2005_1": 2,
+      "TOTAL": 2
+    },
+    {
+      "1964": 15,
+      "1970": 1,
+      "NOMBRE": "JORGE ENRIQUE",
+      "APELLIDO": "RAMIREZ GALLEGO",
+      "TOTAL": 16
+    },
+    {
+      "2012": 1,
+      "NOMBRE": "JORGE ENRIQUE",
+      "APELLIDO": "VARGAS SANDOVAL",
+      "2012_1": 3,
+      "TOTAL": 4
+    },
+    {
+      "1974": 3,
+      "1975": 2,
+      "NOMBRE": "JORGE HUMBERTO",
+      "APELLIDO": "CRUZ",
+      "TOTAL": 5
+    },
+    {
+      "NOMBRE": "JORGE ISAACS",
+      "APELLIDO": "PERLAZA AGUIÑO",
+      "2005_1": 1,
+      "2006_1": 8,
+      "TOTAL": 9
+    },
+    {
+      "1992": 2,
+      "1993": 3,
+      "1994": 1,
+      "1995": 1,
+      "1997": 6,
+      "1998": 3,
+      "2000": 2,
+      "NOMBRE": "JORGE IVAN",
+      "APELLIDO": "VICTORIA RAVE",
+      "TOTAL": 18
+    },
+    {
+      "1976": 9,
+      "NOMBRE": "JORGE LUIS",
+      "APELLIDO": "BULIC PERILLO",
+      "TOTAL": 9
+    },
+    {
+      "1982": 1,
+      "NOMBRE": "JORGE TULIO",
+      "APELLIDO": "CELIS GUTIERREZ",
+      "TOTAL": 1
+    },
+    {
+      "1969": 2,
+      "NOMBRE": "JOSE",
+      "APELLIDO": "MARIN",
+      "TOTAL": 2
+    },
+    {
+      "1999": 2,
+      "NOMBRE": "JOSE",
+      "APELLIDO": "MERA",
+      "TOTAL": 2
+    },
+    {
+      "1959": 3,
+      "NOMBRE": "JOSE ",
+      "APELLIDO": "VASQUEZ",
+      "TOTAL": 3
+    },
+    {
+      "1980": 3,
+      "NOMBRE": "JOSE ANTONIO",
+      "APELLIDO": "HERRAN BUSTOS",
+      "TOTAL": 3
+    },
+    {
+      "1961": 6,
+      "NOMBRE": "JOSE ANTONIO",
+      "APELLIDO": "RADA",
+      "TOTAL": 6
+    },
+    {
+      "1972": 1,
+      "1973": 1,
+      "NOMBRE": "JOSE BERNARDO",
+      "APELLIDO": "PEREZ",
+      "TOTAL": 2
+    },
+    {
+      "1970": 3,
+      "NOMBRE": "JOSE DAVID",
+      "APELLIDO": "LIZCANO",
+      "TOTAL": 3
+    },
+    {
+      "1985": 2,
+      "1986": 3,
+      "1987": 2,
+      "1990": 1,
+      "1991": 1,
+      "NOMBRE": "JOSE DE LA CRUZ",
+      "APELLIDO": "TORRES SAENZ",
+      "TOTAL": 9
+    },
+    {
+      "1985": 1,
+      "NOMBRE": "JOSE HECTOR",
+      "APELLIDO": "RUIZ",
+      "TOTAL": 1
+    },
+    {
+      "1982": 1,
+      "NOMBRE": "JOSE HERNANDO",
+      "APELLIDO": "FERNANDEZ GUTIERREZ",
+      "TOTAL": 1
+    },
+    {
+      "2005": 3,
+      "2006": 2,
+      "2007": 2,
+      "NOMBRE": "JOSE IVAN",
+      "APELLIDO": "VELEZ CASTILLO",
+      "2005_1": 1,
+      "2006_1": 1,
+      "TOTAL": 9
+    },
+    {
+      "1991": 2,
+      "1996": 3,
+      "NOMBRE": "JOSE JOHN",
+      "APELLIDO": "JIMENEZ GUZMAN",
+      "TOTAL": 5
+    },
+    {
+      "1978": 2,
+      "1979": 5,
+      "1980": 6,
+      "NOMBRE": "JOSE LUIS",
+      "APELLIDO": "CARPENE BONI",
+      "TOTAL": 13
+    },
+    {
+      "1974": 2,
+      "NOMBRE": "JOSE LUIS",
+      "APELLIDO": "CRUZ",
+      "TOTAL": 2
+    },
+    {
+      "1996": 1,
+      "NOMBRE": "JOSE MARIA",
+      "APELLIDO": "JEREZ",
+      "TOTAL": 1
+    },
+    {
+      "1973": 7,
+      "1974": 5,
+      "1975": 1,
+      "NOMBRE": "JOSE MARIA",
+      "APELLIDO": "MARTINEZ TORRES",
+      "TOTAL": 13
+    },
+    {
+      "1974": 2,
+      "NOMBRE": "JOSE MIGUEL",
+      "APELLIDO": "CAÑON RINCON",
+      "TOTAL": 2
+    },
+    {
+      "1951": 1,
+      "1952": 1,
+      "NOMBRE": "JOSE PROSPERO ",
+      "APELLIDO": "FABRINI",
+      "TOTAL": 2
+    },
+    {
+      "1978": 3,
+      "1979": 4,
+      "NOMBRE": "JUAN",
+      "APELLIDO": "MORENO HURTADO",
+      "TOTAL": 7
+    },
+    {
+      "1973": 2,
+      "NOMBRE": "JUAN ",
+      "APELLIDO": "AYALA",
+      "TOTAL": 2
+    },
+    {
+      "1965": 2,
+      "NOMBRE": "JUAN ",
+      "APELLIDO": "NAWACKY",
+      "TOTAL": 2
+    },
+    {
+      "NOMBRE": "JUAN ALEJANDRO",
+      "APELLIDO": "GONZALES LOAIZA",
+      "2013_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1997": 1,
+      "1998": 1,
+      "NOMBRE": "JUAN ANDRES",
+      "APELLIDO": "AGUILAR",
+      "TOTAL": 2
+    },
+    {
+      "1963": 21,
+      "1964": 6,
+      "NOMBRE": "JUAN APOLONIO",
+      "APELLIDO": "VAIRO",
+      "TOTAL": 27
+    },
+    {
+      "2011": 1,
+      "NOMBRE": "JUAN CAMILO",
+      "APELLIDO": "VELA OSPINA",
+      "TOTAL": 1
+    },
+    {
+      "1997": 1,
+      "1998": 3,
+      "2000": 7,
+      "2002": 2,
+      "NOMBRE": "JUAN CARLOS",
+      "APELLIDO": "PALACIO AMAYA",
+      "TOTAL": 13
+    },
+    {
+      "1999": 4,
+      "NOMBRE": "JUAN CARLOS",
+      "APELLIDO": "QUINTERO",
+      "TOTAL": 4
+    },
+    {
+      "1967": 1,
+      "1968": 1,
+      "NOMBRE": "JUAN CARLOS",
+      "APELLIDO": "RUIZ MORENO",
+      "TOTAL": 2
+    },
+    {
+      "2003": 1,
+      "NOMBRE": "JUAN CARLOS",
+      "APELLIDO": "SANTAMARIA",
+      "TOTAL": 1
+    },
+    {
+      "1987": 3,
+      "NOMBRE": "JUAN DANIEL",
+      "APELLIDO": "ZEN",
+      "TOTAL": 3
+    },
+    {
+      "1985": 1,
+      "1986": 3,
+      "1987": 2,
+      "NOMBRE": "JUAN EUGENIO",
+      "APELLIDO": "MURIEL",
+      "TOTAL": 6
+    },
+    {
+      "1977": 2,
+      "NOMBRE": "JUAN FELIPE",
+      "APELLIDO": "BARROSO",
+      "TOTAL": 2
+    },
+    {
+      "2011": 6,
+      "2012": 6,
+      "NOMBRE": "JUAN FERNANDO",
+      "APELLIDO": "CAICEDO BENITEZ",
+      "2012_1": 7,
+      "TOTAL": 19
+    },
+    {
+      "1999": 1,
+      "NOMBRE": "JUAN FERNANDO",
+      "APELLIDO": "REBOLLEDO",
+      "TOTAL": 1
+    },
+    {
+      "1973": 13,
+      "NOMBRE": "JUAN FRANCISCO",
+      "APELLIDO": "PERALTA",
+      "TOTAL": 13
+    },
+    {
+      "2006": 1,
+      "NOMBRE": "JUAN GILBERTO",
+      "APELLIDO": "NUÑEZ CASTILLO",
+      "2004_1": 1,
+      "TOTAL": 2
+    },
+    {
+      "1981": 1,
+      "NOMBRE": "JUAN JOSE",
+      "APELLIDO": "SEGURA MICOLTA",
+      "TOTAL": 1
+    },
+    {
+      "2006": 3,
+      "NOMBRE": "JUAN RICARDO",
+      "APELLIDO": "BAZAN RIASCOS",
+      "TOTAL": 3
+    },
+    {
+      "NOMBRE": "JULIAN RAMIRO",
+      "APELLIDO": "VIAFARA MEZA",
+      "2013_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1974": 6,
+      "1975": 7,
+      "1976": 5,
+      "1977": 8,
+      "NOMBRE": "JULIO",
+      "APELLIDO": "GOMEZ GONZALES",
+      "TOTAL": 26
+    },
+    {
+      "1964": 7,
+      "1965": 9,
+      "NOMBRE": "JULIO",
+      "APELLIDO": "MARCARIAN",
+      "TOTAL": 16
+    },
+    {
+      "1970": 4,
+      "1971": 3,
+      "NOMBRE": "JULIO",
+      "APELLIDO": "RODRIGUEZ",
+      "TOTAL": 7
+    },
+    {
+      "1999": 2,
+      "NOMBRE": "JULIO CESAR",
+      "APELLIDO": "ARARAT",
+      "TOTAL": 2
+    },
+    {
+      "2007": 1,
+      "NOMBRE": "JULIO CESAR",
+      "APELLIDO": "LOPEZ",
+      "TOTAL": 1
+    },
+    {
+      "1969": 1,
+      "NOMBRE": "JULIO CESAR",
+      "APELLIDO": "MURIEDA",
+      "TOTAL": 1
+    },
+    {
+      "1996": 2,
+      "NOMBRE": "JULIO CESAR",
+      "APELLIDO": "SARMIENTO",
+      "TOTAL": 2
+    },
+    {
+      "1995": 3,
+      "NOMBRE": "JULIO JAVIER",
+      "APELLIDO": "DOLDAN",
+      "TOTAL": 3
+    },
+    {
+      "1963": 2,
+      "NOMBRE": "JUSTINIANO",
+      "APELLIDO": "RIVERA",
+      "TOTAL": 2
+    },
+    {
+      "1985": 4,
+      "1986": 4,
+      "1987": 2,
+      "1988": 5,
+      "1989": 4,
+      "1990": 5,
+      "1991": 11,
+      "1992": 1,
+      "1993": 9,
+      "NOMBRE": "JUSTINO",
+      "APELLIDO": "SINISTERRA SINISTERRA",
+      "TOTAL": 45
+    },
+    {
+      "2011": 4,
+      "NOMBRE": "KEVIN",
+      "APELLIDO": "BENITEZ",
+      "TOTAL": 4
+    },
+    {
+      "NOMBRE": "LEIDER ",
+      "APELLIDO": "CALIMENIO PRECIADO",
+      "2010_1": 8,
+      "TOTAL": 8
+    },
+    {
+      "1999": 5,
+      "NOMBRE": "LEON DARIO",
+      "APELLIDO": "MUÑOZ HERNANDEZ",
+      "TOTAL": 5
+    },
+    {
+      "1994": 1,
+      "NOMBRE": "LEON FERNANDO",
+      "APELLIDO": "VILLA ARANGO",
+      "TOTAL": 1
+    },
+    {
+      "1984": 10,
+      "NOMBRE": "LEONARDO",
+      "APELLIDO": "BAUTISTA BELTRAN",
+      "TOTAL": 10
+    },
+    {
+      "NOMBRE": "LEONARDO",
+      "APELLIDO": "MINA POLO",
+      "2006_1": 2,
+      "TOTAL": 2
+    },
+    {
+      "1997": 8,
+      "NOMBRE": "LEONARDO FABIO",
+      "APELLIDO": "MORENO",
+      "TOTAL": 8
+    },
+    {
+      "NOMBRE": "LEONEL DE JESUS",
+      "APELLIDO": "ALVAREZ ZULETA",
+      "2004_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1972": 2,
+      "NOMBRE": "LEOPOLDO",
+      "APELLIDO": "RIVAS",
+      "TOTAL": 2
+    },
+    {
+      "1968": 1,
+      "NOMBRE": "LIBARDO",
+      "APELLIDO": "MESA",
+      "TOTAL": 1
+    },
+    {
+      "1991": 13,
+      "1992": 11,
+      "NOMBRE": "LORENZO",
+      "APELLIDO": "FRUTOS",
+      "TOTAL": 24
+    },
+    {
+      "1977": 1,
+      "NOMBRE": "LORENZO",
+      "APELLIDO": "JIMENEZ",
+      "TOTAL": 1
+    },
+    {
+      "1999": 1,
+      "NOMBRE": "LUIS ALBERTO",
+      "APELLIDO": "ARANGO",
+      "TOTAL": 1
+    },
+    {
+      "1992": 2,
+      "1993": 4,
+      "NOMBRE": "LUIS ALBERTO",
+      "APELLIDO": "ESCOBAR AGUIRRE",
+      "TOTAL": 6
+    },
+    {
+      "NOMBRE": "LUIS ALEJANDRO",
+      "APELLIDO": "PAZ MULATO",
+      "2010_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1974": 2,
+      "NOMBRE": "LUIS ALFONSO",
+      "APELLIDO": "JARAMILLO PUERTA",
+      "TOTAL": 2
+    },
+    {
+      "1971": 11,
+      "1973": 3,
+      "1974": 14,
+      "1975": 3,
+      "1976": 6,
+      "1978": 4,
+      "NOMBRE": "LUIS ALFONSO",
+      "APELLIDO": "TOVAR LASSO",
+      "TOTAL": 41
+    },
+    {
+      "2013": 1,
+      "NOMBRE": "LUIS ALFREDO",
+      "APELLIDO": "GONZALES MORENO",
+      "TOTAL": 1
+    },
+    {
+      "1993": 8,
+      "NOMBRE": "LUIS ARMANDO",
+      "APELLIDO": "DIAZ VASQUEZ",
+      "TOTAL": 8
+    },
+    {
+      "1992": 1,
+      "1993": 3,
+      "NOMBRE": "LUIS ARMANDO",
+      "APELLIDO": "LONDOÑO REYES",
+      "TOTAL": 4
+    },
+    {
+      "1998": 2,
+      "NOMBRE": "LUIS CARLOS",
+      "APELLIDO": "OLIVEROS",
+      "TOTAL": 2
+    },
+    {
+      "1988": 14,
+      "1989": 2,
+      "NOMBRE": "LUIS DARIO",
+      "APELLIDO": "ERRAMUSPE",
+      "TOTAL": 16
+    },
+    {
+      "1969": 1,
+      "1971": 1,
+      "NOMBRE": "LUIS EDMUNDO",
+      "APELLIDO": "CUEVAS",
+      "TOTAL": 2
+    },
+    {
+      "1998": 1,
+      "1999": 2,
+      "NOMBRE": "LUIS EDUARDO",
+      "APELLIDO": "LARA CAÑAS",
+      "2002_1": 5,
+      "TOTAL": 8
+    },
+    {
+      "NOMBRE": "LUIS FERNANDO",
+      "APELLIDO": "MOSQUERA ALOMIA",
+      "2007_1": 8,
+      "TOTAL": 8
+    },
+    {
+      "1983": 1,
+      "NOMBRE": "LUIS NORNERTO",
+      "APELLIDO": "GIL COLORADO",
+      "TOTAL": 1
+    },
+    {
+      "2008": 4,
+      "NOMBRE": "LUIS OMAR",
+      "APELLIDO": "VALENCIA BARAHONA",
+      "TOTAL": 4
+    },
+    {
+      "1989": 4,
+      "NOMBRE": "LUIS POMPILIO",
+      "APELLIDO": "PAEZ CASTELLANOS",
+      "TOTAL": 4
+    },
+    {
+      "1959": 1,
+      "1961": 1,
+      "NOMBRE": "MANUEL",
+      "APELLIDO": "DANTE PAIS",
+      "TOTAL": 2
+    },
+    {
+      "1966": 1,
+      "NOMBRE": "MANUEL",
+      "APELLIDO": "RUGEL",
+      "TOTAL": 1
+    },
+    {
+      "1952": 1,
+      "NOMBRE": "MANUEL",
+      "APELLIDO": "SANCHEZ",
+      "TOTAL": 1
+    },
+    {
+      "1972": 1,
+      "NOMBRE": "MANUEL",
+      "APELLIDO": "VELASCO",
+      "TOTAL": 1
+    },
+    {
+      "1977": 3,
+      "NOMBRE": "MANUEL ROSENDO",
+      "APELLIDO": "MAGAN ROMERO",
+      "TOTAL": 3
+    },
+    {
+      "1999": 3,
+      "2000": 2,
+      "NOMBRE": "MARCELINO",
+      "APELLIDO": "RENTERIA",
+      "TOTAL": 5
+    },
+    {
+      "2006": 2,
+      "NOMBRE": "MARCIO",
+      "APELLIDO": "RODRIGUEZ CRUZ",
+      "2005_1": 1,
+      "TOTAL": 3
+    },
+    {
+      "1997": 8,
+      "1998": 9,
+      "2005": 1,
+      "NOMBRE": "MARCO ANTONIO ",
+      "APELLIDO": "CARDOZO MARQUINHO",
+      "2005_1": 1,
+      "TOTAL": 19
+    },
+    {
+      "1977": 2,
+      "NOMBRE": "MARCO TULIO",
+      "APELLIDO": "LOPEZ",
+      "TOTAL": 2
+    },
+    {
+      "1963": 9,
+      "NOMBRE": "MARINO",
+      "APELLIDO": "AGUIRRE",
+      "TOTAL": 9
+    },
+    {
+      "1982": 1,
+      "NOMBRE": "MARIO",
+      "APELLIDO": "ALZATE",
+      "TOTAL": 1
+    },
+    {
+      "1979": 1,
+      "1980": 2,
+      "1981": 1,
+      "1982": 1,
+      "NOMBRE": "MARIO",
+      "APELLIDO": "GIRALDO",
+      "TOTAL": 5
+    },
+    {
+      "1964": 2,
+      "NOMBRE": "MARIO",
+      "APELLIDO": "RIZZUTO",
+      "TOTAL": 2
+    },
+    {
+      "1951": 14,
+      "1952": 17,
+      "1953": 20,
+      "1954": 13,
+      "NOMBRE": "MARIO JUAN ",
+      "APELLIDO": "GARELLI",
+      "TOTAL": 64
+    },
+    {
+      "2011": 2,
+      "NOMBRE": "MARTIN",
+      "APELLIDO": "MORALES ",
+      "2011_1": 1,
+      "TOTAL": 3
+    },
+    {
+      "1995": 1,
+      "NOMBRE": "MAURICIO",
+      "APELLIDO": "BARON MORENO",
+      "TOTAL": 1
+    },
+    {
+      "2006": 9,
+      "NOMBRE": "MAURICIO",
+      "APELLIDO": "ROMERO SELLARES",
+      "TOTAL": 9
+    },
+    {
+      "2000": 4,
+      "NOMBRE": "MAX IVAN",
+      "APELLIDO": "TORRES",
+      "TOTAL": 4
+    },
+    {
+      "1987": 7,
+      "NOMBRE": "MAXIMILIANO",
+      "APELLIDO": "SINGUNEGUI",
+      "TOTAL": 7
+    },
+    {
+      "1969": 2,
+      "NOMBRE": "MIGDONIO",
+      "APELLIDO": "AGUIRRE",
+      "TOTAL": 2
+    },
+    {
+      "1997": 7,
+      "NOMBRE": "MIGUEL",
+      "APELLIDO": "MARRERO",
+      "TOTAL": 7
+    },
+    {
+      "1992": 7,
+      "NOMBRE": "MIGUEL ANGEL",
+      "APELLIDO": "ASPRILLA MOSQUERA",
+      "TOTAL": 7
+    },
+    {
+      "1981": 11,
+      "1982": 6,
+      "NOMBRE": "MIGUEL ANGEL ",
+      "APELLIDO": "MANZI RODRIGUEZ",
+      "TOTAL": 17
+    },
+    {
+      "1978": 7,
+      "NOMBRE": "MIGUEL ANGEL SALVADOR",
+      "APELLIDO": "PAPALARDO",
+      "TOTAL": 7
+    },
+    {
+      "1990": 7,
+      "NOMBRE": "MIGUEL ANTONIO",
+      "APELLIDO": "RADA ALZATE",
+      "TOTAL": 7
+    },
+    {
+      "1975": 4,
+      "NOMBRE": "MIGUEL DE LOS SANTOS",
+      "APELLIDO": "ENCIZO CABRERA",
+      "TOTAL": 4
+    },
+    {
+      "1985": 1,
+      "NOMBRE": "MIGUEL RAUL",
+      "APELLIDO": "BACCAS ROJAS",
+      "TOTAL": 1
+    },
+    {
+      "2004": 1,
+      "NOMBRE": "MILTON FERNANDO",
+      "APELLIDO": "PATIÑO ROSERO",
+      "TOTAL": 1
+    },
+    {
+      "1968": 1,
+      "1969": 5,
+      "NOMBRE": "MODESTO",
+      "APELLIDO": "CERVANTES",
+      "TOTAL": 6
+    },
+    {
+      "1994": 1,
+      "NOMBRE": "NEIGER",
+      "APELLIDO": "NARVAEZ",
+      "TOTAL": 1
+    },
+    {
+      "1965": 1,
+      "NOMBRE": "NELSON",
+      "APELLIDO": "CABEZAS",
+      "TOTAL": 1
+    },
+    {
+      "1990": 4,
+      "1991": 6,
+      "1993": 6,
+      "1994": 1,
+      "NOMBRE": "NELSON",
+      "APELLIDO": "GOMEZ OSPINA",
+      "TOTAL": 17
+    },
+    {
+      "1960": 1,
+      "NOMBRE": "NELSON",
+      "APELLIDO": "VARGAS",
+      "TOTAL": 1
+    },
+    {
+      "2002": 4,
+      "2003": 7,
+      "NOMBRE": "NELSON GABRIEL",
+      "APELLIDO": "GOMEZ PINEDA",
+      "2003_1": 5,
+      "TOTAL": 16
+    },
+    {
+      "NOMBRE": "NESTOR FABIAN",
+      "APELLIDO": "SALAZAR DIAZ",
+      "2006_1": 4,
+      "TOTAL": 4
+    },
+    {
+      "1980": 4,
+      "NOMBRE": "NESTOR LEONEL",
+      "APELLIDO": "SCOTTA GHIGO",
+      "TOTAL": 4
+    },
+    {
+      "1978": 4,
+      "1979": 4,
+      "1982": 1,
+      "NOMBRE": "NESTOR RAUL",
+      "APELLIDO": "CONGOTE ESTRADA",
+      "TOTAL": 9
+    },
+    {
+      "1972": 3,
+      "NOMBRE": "NICOLAS",
+      "APELLIDO": "LOBATON HURTADO",
+      "TOTAL": 3
+    },
+    {
+      "2010": 1,
+      "NOMBRE": "NILSON ARMEL",
+      "APELLIDO": "CORTES QUIÑONES",
+      "TOTAL": 1
+    },
+    {
+      "1987": 3,
+      "NOMBRE": "NILTON",
+      "APELLIDO": "BERNAL",
+      "TOTAL": 3
+    },
+    {
+      "2002": 2,
+      "NOMBRE": "NONDIER HUMBERTO",
+      "APELLIDO": "ROMERO PEÑA",
+      "TOTAL": 2
+    },
+    {
+      "1988": 8,
+      "1989": 3,
+      "1990": 1,
+      "NOMBRE": "NORBERTO ",
+      "APELLIDO": "CADAVID CASTAÑO",
+      "TOTAL": 12
+    },
+    {
+      "1964": 1,
+      "NOMBRE": "NORBERTO ",
+      "APELLIDO": "CONSISTRE",
+      "TOTAL": 1
+    },
+    {
+      "1951": 7,
+      "1955": 1,
+      "NOMBRE": "NORBERTO ",
+      "APELLIDO": "GOMEZ",
+      "TOTAL": 8
+    },
+    {
+      "1963": 5,
+      "1964": 2,
+      "1966": 8,
+      "1967": 10,
+      "1968": 10,
+      "NOMBRE": "NORBERTO ",
+      "APELLIDO": "HERNANDEZ",
+      "TOTAL": 35
+    },
+    {
+      "1988": 1,
+      "NOMBRE": "NORBERTO JOSE",
+      "APELLIDO": "PELUFFO ORTIZ",
+      "TOTAL": 1
+    },
+    {
+      "1967": 1,
+      "NOMBRE": "NORMAN",
+      "APELLIDO": "RAMIREZ",
+      "TOTAL": 1
+    },
+    {
+      "1992": 1,
+      "NOMBRE": "OBED AUGUSTO",
+      "APELLIDO": "GARCIA HOYOS",
+      "TOTAL": 1
+    },
+    {
+      "2012": 5,
+      "NOMBRE": "OLMES FERNANDO",
+      "APELLIDO": "GARCIA",
+      "2011_1": 2,
+      "TOTAL": 7
+    },
+    {
+      "1964": 6,
+      "1965": 1,
+      "NOMBRE": "OMAR",
+      "APELLIDO": "DALOMBO",
+      "TOTAL": 7
+    },
+    {
+      "1959": 4,
+      "1960": 23,
+      "1961": 14,
+      "1963": 11,
+      "NOMBRE": "ONOFRE",
+      "APELLIDO": "BENITEZ",
+      "TOTAL": 52
+    },
+    {
+      "1962": 1,
+      "NOMBRE": "ORLANDO",
+      "APELLIDO": "CAICEDO",
+      "TOTAL": 1
+    },
+    {
+      "1963": 9,
+      "1964": 10,
+      "NOMBRE": "ORLANDO",
+      "APELLIDO": "LARRAZ",
+      "TOTAL": 19
+    },
+    {
+      "1968": 1,
+      "1969": 18,
+      "1973": 2,
+      "NOMBRE": "ORLANDO",
+      "APELLIDO": "MESA CELIS",
+      "TOTAL": 21
+    },
+    {
+      "1952": 1,
+      "1954": 1,
+      "NOMBRE": "ORLANDO RUBEN",
+      "APELLIDO": "CUELLO",
+      "TOTAL": 2
+    },
+    {
+      "1960": 5,
+      "NOMBRE": "OSCAR",
+      "APELLIDO": "BARJACOBA",
+      "TOTAL": 5
+    },
+    {
+      "1961": 4,
+      "1962": 3,
+      "NOMBRE": "OSCAR",
+      "APELLIDO": "FRADE",
+      "TOTAL": 7
+    },
+    {
+      "1961": 2,
+      "NOMBRE": "OSCAR",
+      "APELLIDO": "GONZALES",
+      "TOTAL": 2
+    },
+    {
+      "1960": 1,
+      "1961": 1,
+      "NOMBRE": "OSCAR",
+      "APELLIDO": "SHAPIRA",
+      "TOTAL": 2
+    },
+    {
+      "1968": 1,
+      "NOMBRE": "OSCAR",
+      "APELLIDO": "VILLA",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "OSCAR ADRIAN",
+      "APELLIDO": "ARANDA",
+      "2009_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "2008": 1,
+      "NOMBRE": "OSCAR ALCIDES",
+      "APELLIDO": "ESPINOLA ALEGRE",
+      "TOTAL": 1
+    },
+    {
+      "1995": 3,
+      "NOMBRE": "OSCAR ALEJANDRO",
+      "APELLIDO": "RESTREPO RAMIREZ",
+      "TOTAL": 3
+    },
+    {
+      "1976": 11,
+      "NOMBRE": "OSCAR ANTONIO",
+      "APELLIDO": "PIANETI OVELAR",
+      "TOTAL": 11
+    },
+    {
+      "2009": 2,
+      "NOMBRE": "OSCAR FABIAN",
+      "APELLIDO": "MURILLO MURILLO",
+      "TOTAL": 2
+    },
+    {
+      "1980": 2,
+      "1981": 1,
+      "NOMBRE": "OSCAR HERNANDO",
+      "APELLIDO": "URIBE",
+      "TOTAL": 3
+    },
+    {
+      "1987": 5,
+      "1989": 7,
+      "NOMBRE": "OSCAR ROBERTO",
+      "APELLIDO": "ZARATE",
+      "TOTAL": 12
+    },
+    {
+      "1957": 7,
+      "1958": 14,
+      "NOMBRE": "OSVALDO JOSE",
+      "APELLIDO": "JUSTO ARROYO",
+      "TOTAL": 21
+    },
+    {
+      "NOMBRE": "OSWALDO ENRIQUE",
+      "APELLIDO": "MACKENZIE PEÑA",
+      "2006_1": 6,
+      "TOTAL": 6
+    },
+    {
+      "2000": 5,
+      "NOMBRE": "OYIE GUY",
+      "APELLIDO": "FLAVIE",
+      "TOTAL": 5
+    },
+    {
+      "1965": 1,
+      "NOMBRE": "PABLO",
+      "APELLIDO": "PAGANI",
+      "TOTAL": 1
+    },
+    {
+      "2007": 2,
+      "NOMBRE": "PABLO ANDRES",
+      "APELLIDO": "ESCOBAR VALENCIA",
+      "TOTAL": 2
+    },
+    {
+      "2011": 2,
+      "NOMBRE": "PABLO ANTONIO",
+      "APELLIDO": "SALINAS",
+      "2010_1": 2,
+      "TOTAL": 4
+    },
+    {
+      "2003": 1,
+      "NOMBRE": "PABLO CESAR",
+      "APELLIDO": "VACCA RIVERA",
+      "TOTAL": 1
+    },
+    {
+      "1993": 1,
+      "NOMBRE": "PAULO CESAR",
+      "APELLIDO": "DOS SANTOS",
+      "TOTAL": 1
+    },
+    {
+      "1996": 1,
+      "NOMBRE": "PAULO CESAR",
+      "APELLIDO": "SILVA",
+      "TOTAL": 1
+    },
+    {
+      "1973": 1,
+      "1974": 14,
+      "1975": 5,
+      "NOMBRE": "PEDRO",
+      "APELLIDO": "ALZATE ROSO",
+      "TOTAL": 20
+    },
+    {
+      "1967": 10,
+      "1968": 6,
+      "NOMBRE": "PEDRO",
+      "APELLIDO": "DIAZ",
+      "TOTAL": 16
+    },
+    {
+      "1964": 2,
+      "1965": 12,
+      "NOMBRE": "PEDRO",
+      "APELLIDO": "NAZZOR",
+      "TOTAL": 14
+    },
+    {
+      "1982": 2,
+      "NOMBRE": "PEDRO",
+      "APELLIDO": "PALACIOS",
+      "TOTAL": 2
+    },
+    {
+      "1993": 1,
+      "NOMBRE": "PEDRO JUAN",
+      "APELLIDO": "IBARGUEN",
+      "TOTAL": 1
+    },
+    {
+      "2009": 1,
+      "NOMBRE": "PEDRO MANUEL",
+      "APELLIDO": "ORTEGA SILVERA",
+      "2009_1": 1,
+      "TOTAL": 2
+    },
+    {
+      "1961": 3,
+      "NOMBRE": "PEDRO NEL",
+      "APELLIDO": "CASTILLO",
+      "TOTAL": 3
+    },
+    {
+      "1997": 3,
+      "NOMBRE": "PLACIDO",
+      "APELLIDO": "BONILLA",
+      "TOTAL": 3
+    },
+    {
+      "1974": 2,
+      "1975": 2,
+      "NOMBRE": "RAFAEL",
+      "APELLIDO": "OTERO CORDOBA",
+      "TOTAL": 4
+    },
+    {
+      "1973": 1,
+      "NOMBRE": "RAFAEL",
+      "APELLIDO": "PEREZ",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "RAFAEL ARLEX ",
+      "APELLIDO": "CASTILLO GALVIZ",
+      "2007_1": 4,
+      "TOTAL": 4
+    },
+    {
+      "1992": 2,
+      "1993": 11,
+      "1994": 17,
+      "1995": 7,
+      "1996": 1,
+      "NOMBRE": "RAMON ANTONIO",
+      "APELLIDO": "MORENO",
+      "TOTAL": 38
+    },
+    {
+      "1976": 7,
+      "NOMBRE": "RAMON ELIAS ",
+      "APELLIDO": "LUCUMI",
+      "TOTAL": 7
+    },
+    {
+      "1968": 2,
+      "NOMBRE": "RAUL",
+      "APELLIDO": "PEÑARANDA",
+      "TOTAL": 2
+    },
+    {
+      "1959": 3,
+      "NOMBRE": "RENO ",
+      "APELLIDO": "MINATTI",
+      "TOTAL": 3
+    },
+    {
+      "1954": 1,
+      "1955": 3,
+      "1956": 2,
+      "NOMBRE": "RICARDO",
+      "APELLIDO": "DIAZ",
+      "TOTAL": 6
+    },
+    {
+      "1964": 4,
+      "NOMBRE": "RICARDO",
+      "APELLIDO": "JIMENEZ",
+      "TOTAL": 4
+    },
+    {
+      "1985": 4,
+      "NOMBRE": "RICARDO",
+      "APELLIDO": "SALAZAR BALLESTEROS",
+      "TOTAL": 4
+    },
+    {
+      "2000": 9,
+      "NOMBRE": "RICARDO MANUEL",
+      "APELLIDO": "CICILIANO BUSTILLO",
+      "TOTAL": 9
+    },
+    {
+      "2008": 2,
+      "NOMBRE": "RICHARD",
+      "APELLIDO": "CALHEIRA",
+      "TOTAL": 2
+    },
+    {
+      "2004": 1,
+      "NOMBRE": "RIDER MARIA",
+      "APELLIDO": "ONEILL",
+      "TOTAL": 1
+    },
+    {
+      "1966": 1,
+      "NOMBRE": "ROBERTO",
+      "APELLIDO": "NORIEGA",
+      "TOTAL": 1
+    },
+    {
+      "1969": 2,
+      "NOMBRE": "ROBERTO",
+      "APELLIDO": "VELEZ",
+      "TOTAL": 2
+    },
+    {
+      "1975": 5,
+      "NOMBRE": "ROBERTO ",
+      "APELLIDO": "SALAZAR",
+      "TOTAL": 5
+    },
+    {
+      "1951": 13,
+      "1952": 7,
+      "1953": 10,
+      "1954": 9,
+      "1955": 11,
+      "1956": 8,
+      "1957": 10,
+      "1958": 6,
+      "1959": 11,
+      "1960": 7,
+      "1961": 2,
+      "NOMBRE": "ROBERTO SEGUNDO ",
+      "APELLIDO": "URRUTI BARALES",
+      "TOTAL": 94
+    },
+    {
+      "1995": 3,
+      "1997": 2,
+      "1998": 1,
+      "2004": 1,
+      "NOMBRE": "ROBINSON",
+      "APELLIDO": "ROJAS",
+      "TOTAL": 7
+    },
+    {
+      "1955": 5,
+      "NOMBRE": "RODOLFO",
+      "APELLIDO": "SANCHEZ",
+      "TOTAL": 5
+    },
+    {
+      "1951": 10,
+      "1952": 9,
+      "1953": 11,
+      "1954": 11,
+      "NOMBRE": "RODOLFO ALBERTO",
+      "APELLIDO": "CAZAUBON",
+      "TOTAL": 41
+    },
+    {
+      "1985": 1,
+      "NOMBRE": "RODRIGO",
+      "APELLIDO": "CAMPO RIVERA",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "RODRIGO ALONSO",
+      "APELLIDO": "SARAZ LOPEZ",
+      "2008_1": 2,
+      "TOTAL": 2
+    },
+    {
+      "1999": 4,
+      "NOMBRE": "ROGEIRO",
+      "APELLIDO": "DA SILVA",
+      "TOTAL": 4
+    },
+    {
+      "1968": 2,
+      "1969": 1,
+      "NOMBRE": "RUBEN",
+      "APELLIDO": "BELALCAZAR",
+      "TOTAL": 3
+    },
+    {
+      "1969": 14,
+      "1970": 1,
+      "1971": 17,
+      "1972": 9,
+      "NOMBRE": "RUBEN",
+      "APELLIDO": "CANTERA",
+      "TOTAL": 41
+    },
+    {
+      "1981": 7,
+      "1982": 8,
+      "NOMBRE": "RUBEN ALBERTO",
+      "APELLIDO": "DIAZ",
+      "TOTAL": 15
+    },
+    {
+      "1984": 7,
+      "NOMBRE": "RUBEN ALFREDO",
+      "APELLIDO": "PEREZ VELA",
+      "TOTAL": 7
+    },
+    {
+      "1983": 6,
+      "1997": 6,
+      "1998": 9,
+      "2000": 2,
+      "NOMBRE": "RUBEN DARIO",
+      "APELLIDO": "HERNANDEZ ARIZA",
+      "TOTAL": 23
+    },
+    {
+      "1979": 13,
+      "NOMBRE": "RUBEN NORBERTO",
+      "APELLIDO": "POLO",
+      "TOTAL": 13
+    },
+    {
+      "1959": 7,
+      "NOMBRE": "SANTIAGO",
+      "APELLIDO": "JOFRE",
+      "TOTAL": 7
+    },
+    {
+      "1959": 1,
+      "NOMBRE": "SANTIAGO",
+      "APELLIDO": "VULCANO",
+      "TOTAL": 1
+    },
+    {
+      "1969": 1,
+      "NOMBRE": "SAUL",
+      "APELLIDO": "SALLA",
+      "TOTAL": 1
+    },
+    {
+      "1968": 5,
+      "NOMBRE": "SAULO",
+      "APELLIDO": "GARCIA",
+      "TOTAL": 5
+    },
+    {
+      "2009": 5,
+      "NOMBRE": "SEBASTIAN",
+      "APELLIDO": "HERNANDEZ MEJIA",
+      "2004_1": 1,
+      "2008_1": 5,
+      "TOTAL": 11
+    },
+    {
+      "1992": 1,
+      "NOMBRE": "SEFERINO",
+      "APELLIDO": "PEÑA HURTADO",
+      "TOTAL": 1
+    },
+    {
+      "1992": 2,
+      "NOMBRE": "SERGIO",
+      "APELLIDO": "ANGULO BOLAÑOS",
+      "TOTAL": 2
+    },
+    {
+      "NOMBRE": "SERGIO DARIO",
+      "APELLIDO": "HERRERA MONTH",
+      "2012_1": 6,
+      "TOTAL": 6
+    },
+    {
+      "1977": 1,
+      "NOMBRE": "TEOFILO",
+      "APELLIDO": "GARCIA",
+      "TOTAL": 1
+    },
+    {
+      "1959": 13,
+      "1965": 4,
+      "NOMBRE": "URIEL",
+      "APELLIDO": "CADAVID",
+      "TOTAL": 17
+    },
+    {
+      "2009": 3,
+      "NOMBRE": "VICTOR",
+      "APELLIDO": "BONILLA",
+      "TOTAL": 3
+    },
+    {
+      "1958": 6,
+      "NOMBRE": "VICTOR",
+      "APELLIDO": "GASTALDI",
+      "TOTAL": 6
+    },
+    {
+      "1973": 1,
+      "NOMBRE": "VICTOR",
+      "APELLIDO": "HERNANDEZ",
+      "TOTAL": 1
+    },
+    {
+      "1986": 14,
+      "NOMBRE": "VICTOR",
+      "APELLIDO": "LUGO ORTIZ",
+      "TOTAL": 14
+    },
+    {
+      "1977": 2,
+      "NOMBRE": "VICTOR",
+      "APELLIDO": "VIVEROS SALAZAR",
+      "TOTAL": 2
+    },
+    {
+      "NOMBRE": "VICTOR HUGO",
+      "APELLIDO": "GIRALDO LOPEZ",
+      "2003_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "1994": 7,
+      "1995": 2,
+      "1996": 3,
+      "1998": 1,
+      "NOMBRE": "VICTOR HUGO",
+      "APELLIDO": "MAFLA VIAFARA",
+      "TOTAL": 13
+    },
+    {
+      "2005": 1,
+      "NOMBRE": "VICTOR RENE",
+      "APELLIDO": "MENDIETA",
+      "TOTAL": 1
+    },
+    {
+      "1996": 1,
+      "NOMBRE": "VLADIMIR",
+      "APELLIDO": "RAMIREZ",
+      "TOTAL": 1
+    },
+    {
+      "1974": 3,
+      "NOMBRE": "WALDIR",
+      "APELLIDO": "FERREIRA",
+      "TOTAL": 3
+    },
+    {
+      "1957": 23,
+      "1958": 34,
+      "NOMBRE": "WALTER",
+      "APELLIDO": "MARCOLINI",
+      "TOTAL": 57
+    },
+    {
+      "2009": 1,
+      "NOMBRE": "WIGBER ALFREDO",
+      "APELLIDO": "QUIÑONES HURTADO",
+      "TOTAL": 1
+    },
+    {
+      "1986": 2,
+      "NOMBRE": "WILFREDO",
+      "APELLIDO": "RINCON",
+      "TOTAL": 2
+    },
+    {
+      "1980": 4,
+      "1981": 7,
+      "NOMBRE": "WILFRIDO ANTONIO",
+      "APELLIDO": "VARGAS LOPEZ",
+      "TOTAL": 11
+    },
+    {
+      "1962": 1,
+      "NOMBRE": "WILLIAM",
+      "APELLIDO": "SOTO",
+      "TOTAL": 1
+    },
+    {
+      "2011": 1,
+      "2013": 1,
+      "NOMBRE": "WILLIAM JOSE",
+      "APELLIDO": "TESILLO GUTIERREZ",
+      "2011_1": 1,
+      "TOTAL": 3
+    },
+    {
+      "1998": 1,
+      "1999": 2,
+      "NOMBRE": "WILLINTONG ",
+      "APELLIDO": "ORTIZ MONTES",
+      "TOTAL": 3
+    },
+    {
+      "2000": 1,
+      "NOMBRE": "WILMER",
+      "APELLIDO": "MORENO",
+      "TOTAL": 1
+    },
+    {
+      "2003": 2,
+      "NOMBRE": "WILSON",
+      "APELLIDO": "SEGURA",
+      "TOTAL": 2
+    },
+    {
+      "2010": 3,
+      "NOMBRE": "WILSON",
+      "APELLIDO": "VILLAGRA MEDINA",
+      "TOTAL": 3
+    },
+    {
+      "NOMBRE": "WILSON ALBERTO",
+      "APELLIDO": "CARPINTERO MENDOZA",
+      "2013_1": 4,
+      "TOTAL": 4
+    },
+    {
+      "2004": 1,
+      "NOMBRE": "WILSON ENRIQUE",
+      "APELLIDO": "PEREZ PEREZ",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "YEFER JULIAN",
+      "APELLIDO": "GONZALES",
+      "2002_1": 1,
+      "TOTAL": 1
+    }
+  ],
+  "Torneo": [
+    {
+      "2022": 2,
+      "2023": 3,
+      "NOMBRE": "1 ALEXIS",
+      "APELLIDO": "SERNA ROMAÑA",
+      "TOTAL": 5
+    },
+    {
+      "2023": 1,
+      "NOMBRE": "1 ARIEL BONIFACIO",
+      "APELLIDO": "ROA BENITEZ",
+      "TOTAL": 1
+    },
+    {
+      "2015": 2,
+      "2016": 3,
+      "2017": 6,
+      "2018": 6,
+      "2019": 1,
+      "2021": 3,
+      "2022": 2,
+      "NOMBRE": "1 CRISTIAN ANDRES",
+      "APELLIDO": "MINA REYES",
+      "2015_1": 2,
+      "TOTAL": 25
+    },
+    {
+      "2023": 3,
+      "NOMBRE": "1 DIEGO ARMANDO",
+      "APELLIDO": "ECHEVERRY GIL",
+      "TOTAL": 3
+    },
+    {
+      "2022": 1,
+      "NOMBRE": "1 EDWARD ",
+      "APELLIDO": "CUERNU PINTO",
+      "TOTAL": 1
+    },
+    {
+      "2022": 2,
+      "NOMBRE": "1 FELIPE",
+      "APELLIDO": "CIFUENTES",
+      "TOTAL": 2
+    },
+    {
+      "2022": 1,
+      "NOMBRE": "1 GERSON",
+      "APELLIDO": "DIAZ LUNA",
+      "TOTAL": 1
+    },
+    {
+      "2014": 2,
+      "2015": 1,
+      "2019": 6,
+      "2021": 3,
+      "2022": 7,
+      "NOMBRE": "1 JAIRO ROI",
+      "APELLIDO": "CASTILLO ESPINOSA",
+      "2014_1": 2,
+      "2015_1": 1,
+      "TOTAL": 22
+    },
+    {
+      "2023": 1,
+      "NOMBRE": "1 JESUS DAVID",
+      "APELLIDO": "MARIMON BAEZ",
+      "TOTAL": 1
+    },
+    {
+      "2017": 1,
+      "2019": 1,
+      "2020": 1,
+      "2022": 2,
+      "NOMBRE": "1 JHON HAROL",
+      "APELLIDO": "BALANTA CARABALI",
+      "TOTAL": 5
+    },
+    {
+      "2022": 2,
+      "NOMBRE": "1 JHOSTIN FERNEY",
+      "APELLIDO": "MEDRANDA MINOTA",
+      "TOTAL": 2
+    },
+    {
+      "2022": 2,
+      "NOMBRE": "1 JOHAN SEBASTIAN",
+      "APELLIDO": "AYALA ZANABRIA",
+      "TOTAL": 2
+    },
+    {
+      "2023": 2,
+      "NOMBRE": "1 JOHN JAMES",
+      "APELLIDO": "GAMBOA VALENCIA",
+      "TOTAL": 2
+    },
+    {
+      "2023": 1,
+      "NOMBRE": "1 JUAN MARCELO",
+      "APELLIDO": "VILLAMAYOR CAÑETE",
+      "TOTAL": 1
+    },
+    {
+      "2022": 1,
+      "NOMBRE": "1 JUAN MATEO",
+      "APELLIDO": "TREJOS RAMIREZ",
+      "TOTAL": 1
+    },
+    {
+      "2022": 3,
+      "NOMBRE": "1 LEANDRO",
+      "APELLIDO": "ANGULO TORRES",
+      "TOTAL": 3
+    },
+    {
+      "2022": 6,
+      "NOMBRE": "1 SANTIAGO",
+      "APELLIDO": "GOMEZ",
+      "TOTAL": 6
+    },
+    {
+      "2022": 5,
+      "2023": 1,
+      "NOMBRE": "1 YILTON EDUARDO",
+      "APELLIDO": "DIAZ LOBOA",
+      "TOTAL": 6
+    },
+    {
+      "2001": 1,
+      "NOMBRE": "ANDRES DAVID",
+      "APELLIDO": "SALDARRIAGA",
+      "TOTAL": 1
+    },
+    {
+      "2001": 1,
+      "NOMBRE": "ANDRES FELIPE",
+      "APELLIDO": "CASAÑAS",
+      "TOTAL": 1
+    },
+    {
+      "2019": 1,
+      "NOMBRE": "ANIBAL GABRIEL",
+      "APELLIDO": "HERNANDEZ DE LOS SANTOS",
+      "TOTAL": 1
+    },
+    {
+      "2019": 2,
+      "2020": 2,
+      "NOMBRE": "ANUAR DUVAN",
+      "APELLIDO": "HURTADO VIERA",
+      "TOTAL": 4
+    },
+    {
+      "2022": 2,
+      "NOMBRE": "CESAR AUGUSTO",
+      "APELLIDO": "HINESTROZA LOZANO",
+      "TOTAL": 2
+    },
+    {
+      "2016": 14,
+      "NOMBRE": "DAMIR",
+      "APELLIDO": "CETER VALENCIA",
+      "TOTAL": 14
+    },
+    {
+      "2018": 2,
+      "2019": 11,
+      "2020": 3,
+      "NOMBRE": "DANNY MANUEL",
+      "APELLIDO": "SANTOYA OTERO",
+      "TOTAL": 16
+    },
+    {
+      "2015": 3,
+      "2017": 4,
+      "NOMBRE": "DEINER ALEXANDER",
+      "APELLIDO": "QUIÑONES QUIÑONES",
+      "2014_1": 1,
+      "2015_1": 4,
+      "TOTAL": 12
+    },
+    {
+      "2017": 4,
+      "2018": 3,
+      "2019": 9,
+      "2020": 12,
+      "2021": 2,
+      "NOMBRE": "DIBER ARMANDO",
+      "APELLIDO": "CAMBINDO ABONIA",
+      "TOTAL": 30
+    },
+    {
+      "2018": 1,
+      "2020": 1,
+      "NOMBRE": "DIDIER JAIR",
+      "APELLIDO": "PINO CORDOBA",
+      "TOTAL": 2
+    },
+    {
+      "2018": 1,
+      "NOMBRE": "DIEGO DANIEL",
+      "APELLIDO": "ARECO ZAYAS",
+      "TOTAL": 1
+    },
+    {
+      "2016": 3,
+      "2017": 8,
+      "2018": 1,
+      "NOMBRE": "DIEGO NAHUEL",
+      "APELLIDO": "SEVILLANO MENDEZ",
+      "2015_1": 7,
+      "TOTAL": 19
+    },
+    {
+      "2014": 1,
+      "NOMBRE": "DUVAN",
+      "APELLIDO": "MEJIA RENGIFO",
+      "TOTAL": 1
+    },
+    {
+      "2015": 1,
+      "NOMBRE": "EDUARD ANDRES",
+      "APELLIDO": "BENAVIDES NAVIA",
+      "TOTAL": 1
+    },
+    {
+      "2001": 4,
+      "NOMBRE": "ELMER",
+      "APELLIDO": "CAVICHE",
+      "TOTAL": 4
+    },
+    {
+      "2017": 5,
+      "NOMBRE": "ESTIWAR",
+      "APELLIDO": "MENA SERNA",
+      "2015_1": 1,
+      "TOTAL": 6
+    },
+    {
+      "2016": 1,
+      "2017": 7,
+      "2018": 5,
+      "2019": 5,
+      "2020": 5,
+      "2022": 6,
+      "NOMBRE": "EXNEYDER",
+      "APELLIDO": "GUERRERO QUINTANA",
+      "TOTAL": 29
+    },
+    {
+      "2015": 1,
+      "2017": 1,
+      "NOMBRE": "FRANCISCO JAVIER",
+      "APELLIDO": "NAVAS COBO",
+      "TOTAL": 2
+    },
+    {
+      "2015": 2,
+      "2016": 3,
+      "2017": 3,
+      "NOMBRE": "GIOVANNI ALEXANDER",
+      "APELLIDO": "LOPEZ YEPES",
+      "2014_1": 7,
+      "TOTAL": 15
+    },
+    {
+      "2001": 2,
+      "NOMBRE": "GUSTAVO",
+      "APELLIDO": "AYALA",
+      "TOTAL": 2
+    },
+    {
+      "2015": 2,
+      "2016": 3,
+      "2017": 9,
+      "NOMBRE": "GUSTAVO ADOLFO",
+      "APELLIDO": "TORRES GRUESSO",
+      "2014_1": 2,
+      "2015_1": 5,
+      "TOTAL": 21
+    },
+    {
+      "2001": 6,
+      "NOMBRE": "GUSTAVO DANIEL",
+      "APELLIDO": "ITURBURO",
+      "TOTAL": 6
+    },
+    {
+      "2001": 1,
+      "NOMBRE": "HARVY",
+      "APELLIDO": "MEJIA",
+      "TOTAL": 1
+    },
+    {
+      "2001": 3,
+      "NOMBRE": "HECTOR FABIO",
+      "APELLIDO": "LUNA",
+      "TOTAL": 3
+    },
+    {
+      "2019": 12,
+      "2020": 1,
+      "NOMBRE": "HENRY JAVIER",
+      "APELLIDO": "HERNANDEZ ALVAREZ",
+      "TOTAL": 13
+    },
+    {
+      "2001": 1,
+      "NOMBRE": "HERMES",
+      "APELLIDO": "MARTINEZ",
+      "TOTAL": 1
+    },
+    {
+      "2001": 1,
+      "NOMBRE": "HERNAN DARIO",
+      "APELLIDO": "REINOLDS",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "JACKSON DAVID",
+      "APELLIDO": "MONTAÑO PALACIOS",
+      "2014_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "JAINE ESTIVEN",
+      "APELLIDO": "BARREIRO SOLIS",
+      "2014_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "2018": 1,
+      "2022": 4,
+      "NOMBRE": "JAIRO JAVIER",
+      "APELLIDO": "BORRERO POSSO",
+      "TOTAL": 5
+    },
+    {
+      "2022": 1,
+      "NOMBRE": "JEFERSON DAVID",
+      "APELLIDO": "CHURY LEON",
+      "TOTAL": 1
+    },
+    {
+      "2017": 2,
+      "2018": 5,
+      "2019": 1,
+      "2020": 2,
+      "2021": 1,
+      "NOMBRE": "JESUS ANTONIO",
+      "APELLIDO": "FIGUEROA OLAYA",
+      "TOTAL": 11
+    },
+    {
+      "2016": 1,
+      "2017": 1,
+      "2018": 4,
+      "NOMBRE": "JOHAN ESTIVEN",
+      "APELLIDO": "GOMEZ MORENO",
+      "TOTAL": 6
+    },
+    {
+      "2015": 4,
+      "2017": 1,
+      "NOMBRE": "JOHAN SEBASTIAN",
+      "APELLIDO": "MENDOZA TELLEZ",
+      "2015_1": 1,
+      "TOTAL": 6
+    },
+    {
+      "2014": 3,
+      "NOMBRE": "JORGE ENRIQUE",
+      "APELLIDO": "VARGAS SANDOVAL",
+      "TOTAL": 3
+    },
+    {
+      "2001": 1,
+      "NOMBRE": "JOSE HUMBERTO",
+      "APELLIDO": "CAICEDO",
+      "TOTAL": 1
+    },
+    {
+      "2001": 2,
+      "NOMBRE": "JUAN CARLOS",
+      "APELLIDO": "ESCOBAR",
+      "TOTAL": 2
+    },
+    {
+      "2017": 1,
+      "NOMBRE": "JUAN JOSE",
+      "APELLIDO": "CALDERON MEDINA",
+      "TOTAL": 1
+    },
+    {
+      "2018": 4,
+      "2021": 3,
+      "2022": 2,
+      "NOMBRE": "LEYSER",
+      "APELLIDO": "CHAVERRA RENTERIA",
+      "TOTAL": 9
+    },
+    {
+      "2014": 5,
+      "2015": 1,
+      "NOMBRE": "LUIS ALEXANDER",
+      "APELLIDO": "MOSQUERA MORENO",
+      "2014_1": 4,
+      "TOTAL": 10
+    },
+    {
+      "2014": 1,
+      "NOMBRE": "LUIS ALFREDO",
+      "APELLIDO": "GONZALES MORENO",
+      "2014_1": 2,
+      "TOTAL": 3
+    },
+    {
+      "2001": 13,
+      "NOMBRE": "LUIS EDUARDO",
+      "APELLIDO": "LARA CAÑAS",
+      "TOTAL": 13
+    },
+    {
+      "2021": 4,
+      "2022": 8,
+      "NOMBRE": "LUIS FABIAN",
+      "APELLIDO": "MINA ZAPATA",
+      "TOTAL": 12
+    },
+    {
+      "2001": 1,
+      "NOMBRE": "LUIS GUILLERMO",
+      "APELLIDO": "BERRIO",
+      "TOTAL": 1
+    },
+    {
+      "2018": 2,
+      "2020": 2,
+      "NOMBRE": "LUIS MIGUEL",
+      "APELLIDO": "CARABALI GUACALES",
+      "TOTAL": 4
+    },
+    {
+      "2001": 1,
+      "NOMBRE": "MANUEL ANGEL",
+      "APELLIDO": "SOTELO",
+      "TOTAL": 1
+    },
+    {
+      "2014": 1,
+      "NOMBRE": "MARIO HUMBERTO",
+      "APELLIDO": "GARCIA CABOARA",
+      "TOTAL": 1
+    },
+    {
+      "2001": 1,
+      "NOMBRE": "MARTIN EDWIN",
+      "APELLIDO": "GARCIA ORTIZ",
+      "TOTAL": 1
+    },
+    {
+      "NOMBRE": "MAURICIO ALFONSO",
+      "APELLIDO": "ARQUEZ ARANGO",
+      "2014_1": 1,
+      "TOTAL": 1
+    },
+    {
+      "2001": 4,
+      "NOMBRE": "MAX IVAN",
+      "APELLIDO": "TORRES",
+      "TOTAL": 4
+    },
+    {
+      "2001": 2,
+      "NOMBRE": "NELSON",
+      "APELLIDO": "GOMEZ",
+      "TOTAL": 2
+    },
+    {
+      "2019": 2,
+      "2021": 1,
+      "NOMBRE": "OLMES FERNANDO",
+      "APELLIDO": "GARCIA FLORES",
+      "TOTAL": 3
+    },
+    {
+      "2001": 2,
+      "NOMBRE": "VICTOR HUGO",
+      "APELLIDO": "MAFLA VIAFARA",
+      "TOTAL": 2
+    },
+    {
+      "2018": 1,
+      "2020": 1,
+      "NOMBRE": "WILMER JAIR",
+      "APELLIDO": "PALACIOS MURILLO",
+      "TOTAL": 2
+    },
+    {
+      "2019": 1,
+      "2020": 3,
+      "2021": 4,
+      "NOMBRE": "WILSON",
+      "APELLIDO": "ESPAÑA SOLIS",
+      "TOTAL": 8
+    },
+    {
+      "2014": 6,
+      "2015": 2,
+      "2016": 8,
+      "2017": 3,
+      "2018": 2,
+      "NOMBRE": "WILSON ALBERTO",
+      "APELLIDO": "CARPINTERO MENDOZA",
+      "2014_1": 7,
+      "2015_1": 3,
+      "TOTAL": 31
+    },
+    {
+      "2014": 2,
+      "NOMBRE": "WILSON ORLANDO",
+      "APELLIDO": "GALEANO CARDENAS",
+      "2014_1": 1,
+      "TOTAL": 3
+    },
+    {
+      "2016": 2,
+      "NOMBRE": "YEINER JOHAN",
+      "APELLIDO": "OROZCO FRANCO",
+      "TOTAL": 2
+    },
+    {
+      "2016": 1,
+      "2017": 2,
+      "2018": 1,
+      "2019": 1,
+      "NOMBRE": "YEISON",
+      "APELLIDO": "CARABALI UZURIAGA",
+      "2015_1": 1,
+      "TOTAL": 6
+    },
+    {
+      "2014": 3,
+      "2016": 3,
+      "2021": 5,
+      "NOMBRE": "YILMAR ALEXIS",
+      "APELLIDO": "FILIGRANA POSSU",
+      "2014_1": 10,
+      "TOTAL": 21
+    }
+  ],
+  "Copa": [
+    {
+      "2016": 2,
+      "NOMBRE": "1 CRISTIAN ANDRES",
+      "APELLIDO": "MINA REYES",
+      "2021_1": 1,
+      "TOTAL": 3
+    },
+    {
+      "2016": 1,
+      "2017": 1,
+      "2018": 1,
+      "2022": 1,
+      "NOMBRE": "1 EXNEYDER",
+      "APELLIDO": "GUERRERO QUINTANA",
+      "TOTAL": 4
+    },
+    {
+      "2019": 1,
+      "NOMBRE": "1 JAIRO JAVIER",
+      "APELLIDO": "BORRERO POSO",
+      "TOTAL": 1
+    },
+    {
+      "2010": 1,
+      "2013": 2,
+      "2014": 3,
+      "2015": 1,
+      "2022": 1,
+      "NOMBRE": "1 JAIRO ROY",
+      "APELLIDO": "CASTILLO ESPINOSA",
+      "TOTAL": 8
+    },
+    {
+      "2018": 1,
+      "2020": 1,
+      "NOMBRE": "1 JESUS ANTONIO",
+      "APELLIDO": "FIGUEROA OLAYA",
+      "TOTAL": 2
+    },
+    {
+      "2022": 1,
+      "NOMBRE": "1 JOHN DEYBI",
+      "APELLIDO": "BARRIOS TORRIJO",
+      "TOTAL": 1
+    },
+    {
+      "2022": 1,
+      "NOMBRE": "1 LUIS FABIAN",
+      "APELLIDO": "MINA ZAPATA",
+      "TOTAL": 1
+    },
+    {
+      "2018": 1,
+      "2022": 1,
+      "NOMBRE": "1 LUIS MIGUEL",
+      "APELLIDO": "CARABALI GUACALES",
+      "TOTAL": 2
+    },
+    {
+      "2020": 1,
+      "NOMBRE": "1 YANI DAVID",
+      "APELLIDO": "QUINTERO RIVAS",
+      "TOTAL": 1
+    },
+    {
+      "2015": 2,
+      "NOMBRE": "1 YEISON",
+      "APELLIDO": "CARABALI UZURIAGA",
+      "TOTAL": 2
+    },
+    {
+      "2010": 5,
+      "2011": 1,
+      "2012": 1,
+      "NOMBRE": "ALDAIR",
+      "APELLIDO": "MURILLO SANMARTIN",
+      "TOTAL": 7
+    },
+    {
+      "2010": 1,
+      "NOMBRE": "ALEJANDRO NICOLAS",
+      "APELLIDO": "MARTINEZ",
+      "TOTAL": 1
+    },
+    {
+      "2009": 1,
+      "NOMBRE": "ALEXANDER",
+      "APELLIDO": "MEJIA SABALSA",
+      "TOTAL": 1
+    },
+    {
+      "2013": 2,
+      "NOMBRE": "ANDRE BELTRAME",
+      "APELLIDO": "VIEIRA PINTO",
+      "TOTAL": 2
+    },
+    {
+      "2019": 1,
+      "NOMBRE": "ANDRES MAURICIO",
+      "APELLIDO": "MONROY QUEVEDO",
+      "TOTAL": 1
+    },
+    {
+      "2011": 1,
+      "2012": 1,
+      "2013": 3,
+      "NOMBRE": "CARLOS JULIO",
+      "APELLIDO": "ROBLES ROCHA",
+      "TOTAL": 5
+    },
+    {
+      "2011": 3,
+      "NOMBRE": "CELIMO JONIER",
+      "APELLIDO": "POLO PEREZ",
+      "TOTAL": 3
+    },
+    {
+      "2008": 1,
+      "NOMBRE": "CRISTINO  ALFREDO",
+      "APELLIDO": "JARA",
+      "TOTAL": 1
+    },
+    {
+      "2009": 3,
+      "2010": 3,
+      "2013": 1,
+      "2019": 1,
+      "NOMBRE": "DANNY MANUEL",
+      "APELLIDO": "SANTOYA OTERO",
+      "TOTAL": 8
+    },
+    {
+      "2014": 1,
+      "NOMBRE": "DEINER ALEXANDER",
+      "APELLIDO": "QUIÑONES QUIÑONES",
+      "TOTAL": 1
+    },
+    {
+      "2018": 1,
+      "2020": 3,
+      "2021": 2,
+      "NOMBRE": "DIBER ARMANDO",
+      "APELLIDO": "CAMBINDO ABONIA",
+      "TOTAL": 6
+    },
+    {
+      "2016": 2,
+      "2018": 1,
+      "NOMBRE": "DIEGO NAHUEL",
+      "APELLIDO": "SEVILLANO MENDEZ",
+      "TOTAL": 3
+    },
+    {
+      "2014": 1,
+      "NOMBRE": "DUVAN",
+      "APELLIDO": "MEJIA RENGIFO",
+      "TOTAL": 1
+    },
+    {
+      "2011": 1,
+      "NOMBRE": "EDER",
+      "APELLIDO": "CASTAÑEDA BOTIA",
+      "TOTAL": 1
+    },
+    {
+      "2014": 1,
+      "NOMBRE": "EDUARD ALEXIS",
+      "APELLIDO": "VIVEROS CAICEDO",
+      "TOTAL": 1
+    },
+    {
+      "2013": 1,
+      "NOMBRE": "EDUARD ESTIVENSON",
+      "APELLIDO": "ZEA CHAVEZ",
+      "TOTAL": 1
+    },
+    {
+      "2011": 1,
+      "NOMBRE": "FABIO DARIO",
+      "APELLIDO": "RODRIGUEZ",
+      "TOTAL": 1
+    },
+    {
+      "2012": 1,
+      "NOMBRE": "FAINER",
+      "APELLIDO": "TORIJANO CANO",
+      "TOTAL": 1
+    },
+    {
+      "2009": 3,
+      "2010": 1,
+      "NOMBRE": "FEIVER ALONSO",
+      "APELLIDO": "MERCADO GALERA",
+      "TOTAL": 4
+    },
+    {
+      "2010": 1,
+      "NOMBRE": "GIOVANNI",
+      "APELLIDO": "CAMPO GONZALES",
+      "TOTAL": 1
+    },
+    {
+      "2014": 1,
+      "2017": 1,
+      "NOMBRE": "GIOVANNI ALEXANDER",
+      "APELLIDO": "LOPEZ YEPES",
+      "TOTAL": 2
+    },
+    {
+      "2017": 1,
+      "NOMBRE": "GUILLERMO ",
+      "APELLIDO": "MURILLO",
+      "TOTAL": 1
+    },
+    {
+      "2015": 1,
+      "2016": 1,
+      "2017": 3,
+      "NOMBRE": "GUSTAVO ADOLFO",
+      "APELLIDO": "TORRES GRUESSO",
+      "TOTAL": 5
+    },
+    {
+      "2013": 1,
+      "NOMBRE": "GUSTAVO JAVIER",
+      "APELLIDO": "BISCAYZACU PEREA",
+      "TOTAL": 1
+    },
+    {
+      "2012": 1,
+      "NOMBRE": "HAMILTON",
+      "APELLIDO": "RICARD",
+      "TOTAL": 1
+    },
+    {
+      "2009": 3,
+      "2010": 1,
+      "NOMBRE": "IVAN RODRIGO",
+      "APELLIDO": "TRUJILLO",
+      "TOTAL": 4
+    },
+    {
+      "2012": 1,
+      "NOMBRE": "JAINE ESTIVEN",
+      "APELLIDO": "BARREIRO SOLIS",
+      "TOTAL": 1
+    },
+    {
+      "2010": 1,
+      "NOMBRE": "JARRINSON",
+      "APELLIDO": "MORALES RUIZ",
+      "TOTAL": 1
+    },
+    {
+      "2016": 1,
+      "2018": 2,
+      "2019": 1,
+      "NOMBRE": "JOHAN ESTIVEN",
+      "APELLIDO": "GOMEZ MORENO",
+      "TOTAL": 4
+    },
+    {
+      "2008": 1,
+      "NOMBRE": "JOHN HANS",
+      "APELLIDO": "GUALE RAMOS",
+      "TOTAL": 1
+    },
+    {
+      "2012": 2,
+      "2013": 3,
+      "NOMBRE": "JORGE ENRIQUE",
+      "APELLIDO": "VARGAS SANDOVAL",
+      "TOTAL": 5
+    },
+    {
+      "2014": 1,
+      "NOMBRE": "JUAN CAMILO",
+      "APELLIDO": "PRIETO CAICEDO",
+      "TOTAL": 1
+    },
+    {
+      "2010": 1,
+      "2011": 1,
+      "2013": 2,
+      "NOMBRE": "JUAN CAMILO",
+      "APELLIDO": "VELA OSPINA",
+      "TOTAL": 4
+    },
+    {
+      "2011": 1,
+      "2012": 3,
+      "NOMBRE": "JUAN FERNANDO",
+      "APELLIDO": "CAICEDO BENITEZ",
+      "TOTAL": 4
+    },
+    {
+      "2017": 1,
+      "NOMBRE": "JUAN JOSÉ",
+      "APELLIDO": "CALDERÓN MEDINA",
+      "TOTAL": 1
+    },
+    {
+      "2009": 1,
+      "NOMBRE": "JUAN RICARDO",
+      "APELLIDO": "BAZAN RIASCOS",
+      "TOTAL": 1
+    },
+    {
+      "2014": 1,
+      "NOMBRE": "LUIS ALEJANDRO",
+      "APELLIDO": "PAZ MULATO",
+      "TOTAL": 1
+    },
+    {
+      "2009": 1,
+      "2010": 1,
+      "NOMBRE": "LUIS ALFREDO",
+      "APELLIDO": "GONZALES MORENO",
+      "TOTAL": 2
+    },
+    {
+      "2015": 1,
+      "NOMBRE": "MARIO HUMBERTO",
+      "APELLIDO": "GARCIA CABOARA",
+      "TOTAL": 1
+    },
+    {
+      "2011": 5,
+      "NOMBRE": "MARTIN",
+      "APELLIDO": "MORALES ",
+      "TOTAL": 5
+    },
+    {
+      "2008": 1,
+      "NOMBRE": "NONDIER HUMBERTO",
+      "APELLIDO": "ROMERO PEÑA",
+      "TOTAL": 1
+    },
+    {
+      "2013": 1,
+      "NOMBRE": "NORVEY",
+      "APELLIDO": "OROZCO ANCHILA",
+      "TOTAL": 1
+    },
+    {
+      "2011": 1,
+      "2012": 1,
+      "NOMBRE": "OLMES FERNANDO",
+      "APELLIDO": "GARCIA",
+      "TOTAL": 2
+    },
+    {
+      "2013": 2,
+      "NOMBRE": "OSCAR",
+      "APELLIDO": "MEZA",
+      "TOTAL": 2
+    },
+    {
+      "2009": 2,
+      "NOMBRE": "OSCAR ADRIAN",
+      "APELLIDO": "ARANDA",
+      "TOTAL": 2
+    },
+    {
+      "2017": 1,
+      "NOMBRE": "PATRICK JEAN",
+      "APELLIDO": "TEIXEIRA LIMA",
+      "TOTAL": 1
+    },
+    {
+      "2013": 1,
+      "NOMBRE": "PAVER MAURICIO",
+      "APELLIDO": "RODALLEGA",
+      "TOTAL": 1
+    },
+    {
+      "2008": 4,
+      "NOMBRE": "RICHARD",
+      "APELLIDO": "CALHEIRA",
+      "TOTAL": 4
+    },
+    {
+      "2009": 1,
+      "NOMBRE": "WIGBER ALFREDO",
+      "APELLIDO": "QUIÑONES HURTADO",
+      "TOTAL": 1
+    },
+    {
+      "2020": 3,
+      "NOMBRE": "WILSON",
+      "APELLIDO": "ESPAÑA SOLIS",
+      "TOTAL": 3
+    },
+    {
+      "2014": 5,
+      "2015": 2,
+      "2016": 1,
+      "2018": 2,
+      "NOMBRE": "WILSON ALBERTO",
+      "APELLIDO": "CARPINTERO MENDOZA",
+      "TOTAL": 10
+    },
+    {
+      "2014": 2,
+      "NOMBRE": "WILSON ORLANDO",
+      "APELLIDO": "GALEANO CARDENAS",
+      "TOTAL": 2
+    },
+    {
+      "2013": 1,
+      "2014": 2,
+      "2016": 2,
+      "NOMBRE": "YILMAR ALEXIS",
+      "APELLIDO": "FILIGRANA POSSU",
+      "TOTAL": 5
+    }
+  ],
+  "Femenino": [
+    {
+      "2017": 6,
+      "2018": 4,
+      "NOMBRE": "SELENA JULIANA",
+      "APELLIDO": "MEZA CABEZAS",
+      "TOTAL": 10
+    },
+    {
+      "2018": 7,
+      "NOMBRE": "MARTA ALEJANDRA",
+      "APELLIDO": "COX VILLAREAL",
+      "TOTAL": 7
+    },
+    {
+      "2018": 4,
+      "NOMBRE": "YURANI MARCELA",
+      "APELLIDO": "MARIN CANO",
+      "TOTAL": 4
+    },
+    {
+      "2018": 2,
+      "NOMBRE": "KAREN CECILIA",
+      "APELLIDO": "GUILLEN CARDENAS",
+      "TOTAL": 2
+    },
+    {
+      "2018": 2,
+      "NOMBRE": "HEIDE MARLENE",
+      "APELLIDO": "PADILLA SEBALLO",
+      "TOTAL": 2
+    },
+    {
+      "2017": 1,
+      "2018": 1,
+      "NOMBRE": "KARINA",
+      "APELLIDO": "VALENCIA MARTINEZ",
+      "TOTAL": 2
+    },
+    {
+      "2017": 1,
+      "NOMBRE": "NAYIBE ANDREA",
+      "APELLIDO": "MONCADA VELEZ",
+      "TOTAL": 1
+    },
+    {
+      "2018": 1,
+      "NOMBRE": "MARIANA",
+      "APELLIDO": "PUENTES PATIÑO",
+      "TOTAL": 1
+    }
+  ]
+}

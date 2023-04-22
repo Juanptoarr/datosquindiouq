@@ -28,7 +28,11 @@ fs.readdir('archivos', (err, files) => {
         result[sheetName] = {};
       }
 
-      result[sheetName][fileName] = data.map(row => {
+      if (!result[sheetName].hasOwnProperty(fileName)) {
+        result[sheetName][fileName] = { "Jugadores": {} };
+      }
+
+      data.forEach(row => {
         const nameColumns = Object.keys(row).filter(key => {
           return typeof row[key] === 'string' &&
             (key.toLowerCase().includes('nombre') || key.toLowerCase().includes('apellido'));
@@ -37,20 +41,21 @@ fs.readdir('archivos', (err, files) => {
         const nameValues = nameColumns.map(key => row[key]);
         const jugadorName = nameValues.join(' ');
 
-        const newRow = { Jugador: { name: jugadorName } };
+        if (!result[sheetName][fileName]["Jugadores"].hasOwnProperty(jugadorName)) {
+          result[sheetName][fileName]["Jugadores"][jugadorName] = {};
+        }
+
         Object.keys(row).forEach(key => {
           if (!nameColumns.includes(key)) {
-            newRow.Jugador[key] = row[key];
+            result[sheetName][fileName]["Jugadores"][jugadorName][key] = row[key];
           }
         });
-
-        return newRow;
       });
     });
   });
 
   // Guardar el objeto 'result' en un archivo JSON con el nombre "historico.json"
-  const jsonFileName = 'historico.json';
+  const jsonFileName = 'Historico.json';
   const jsonFilePath = path.join('archivos', jsonFileName);
   fs.writeFile(jsonFilePath, JSON.stringify(result, null, 2) + os.EOL, (err) => {
     if (err) {

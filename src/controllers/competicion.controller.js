@@ -12,7 +12,6 @@ competicionController.getJugador = async (req, res) => {
     res.send(buscado);
 }
 competicionController.createJugador = async (req, res) => {
-    const responsefinal = []
     const arrayCompeticion = Object.keys(req.body);
     for (let i = 0; i < arrayCompeticion.length; i++) {
         const arrayTipos = Object.keys(req.body[arrayCompeticion[i]])
@@ -38,12 +37,11 @@ competicionController.createJugador = async (req, res) => {
                 tipodatos: arrayTipos[j],
                 Jugadores: jugadores
             })
-            responsefinal.push(competicion)
+            await competicion.save()
         }
     }
     
-    res.send(responsefinal)
-    // await newJugador.save()
+    res.send('Guardado exitosamente')
 }
 competicionController.updateJugador = async (req, res) => {
     const buscado = await competicionLiga.findByIdAndUpdate(req.params.id, req.body)

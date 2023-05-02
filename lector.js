@@ -1,8 +1,11 @@
 const data = require('./archivos/Historico Goles y Participaciones.json') 
-const jugadoresGolesLiga =data.Liga.GOLEADORESHISTORICO.Jugadores;
-for (const campo in jugadoresGolesLiga) {
-    for(const subcampo in jugadoresGolesLiga[campo]){
-        console.log(campo + ": " + subcampo + ":" + jugadoresGolesLiga[campo][subcampo]);
-    }
-    
-  }
+fetch('http://localhost:8000/api/jugadores', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json'
+  },
+  body: JSON.stringify(data)
+})
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(error => console.error(error));

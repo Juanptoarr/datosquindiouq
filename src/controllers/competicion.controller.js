@@ -1,52 +1,61 @@
 const competicionController = {}
-const competicion = require('../models/competicion')
-
+const competicionLiga = require('../models/competicionLiga')
+const jugadorGoles = require('../models/jugadorGoles')
 
 competicionController.getCompeticiones = async (req, res) => {
-    const page = parseInt(req.query.page) || 1 // Si no se proporciona la página, la primera será por defecto
-    const limit = 20; // El número de elementos por página
-    const startIndex = (page - 1) * limit;
-    const endIndex = page * limit;
 
-    // Aquí debes obtener la lista completa de elementos desde la base de datos o desde otro lugar donde los estés almacenando
-    const competicion = await competicion.find()
-    res.json(jugadores)
-    const results = {};
-
-    if (endIndex < listaCompleta.length) {
-        results.next = {
-            page: page + 1,
-            limit: limit
-        };
-    }
-
-    if (startIndex > 0) {
-        results.previous = {
-            page: page - 1,
-            limit: limit
-        };
-    }
-    results.totalElementos = competicion.length;
-    results.elementos = competicion.slice(startIndex, endIndex);
-
+    const results = await competicionLiga.find()
     res.status(200).json(results);
 }
 competicionController.getJugador = async (req, res) => {
-    const buscado = await competicion.findById(req.params.id)
+    const buscado = await competicionLiga.findById(req.params.id)
     res.send(buscado);
 }
 competicionController.createJugador = async (req, res) => {
-    const newjugador = new competicion(req.body)
-    await newjugador.save()
-    res.send('jugador creado')
+    const arrayCompeticion = Object.keys(req.body);
+    const arrayTipos = Object.keys(req.body[arrayCompeticion[0]])
+    const arrayJugadores = Object.keys(req.body[arrayCompeticion[0]][arrayTipos[0]].Jugadores);
+    if (arrayCompeticion.includes('Liga')) {
+        if (arrayTipos.includes('GOLEADORESHISTORICO')) {
+            console.log('GOLEADORESHISTORICO')
+        }
+        if (arrayTipos.includes('PARTICIPACIONESHISTORICO')) {
+            console.log('PARTICIPACIONESHISTORICO')
+        }
+    }
+    if (arrayCompeticion.includes('Torneo')) {
+        console.log('Torneo')
+    }
+    const jugadores = [];
+    for (let i = 0; i < arrayJugadores.length; i++) {
+        const arrayKeysGoles = Object.keys(req.body.Liga.GOLEADORESHISTORICO.Jugadores[arrayJugadores[i]])
+        const arrayGoles = []
+        for (let j = 0; j < arrayKeysGoles.length - 1; j++) {
+            const golesanio = { anio: arrayKeysGoles[j], numGoles: req.body.Liga.GOLEADORESHISTORICO.Jugadores[arrayJugadores[i]][arrayKeysGoles[j]] }
+            arrayGoles.push(golesanio)
+        }
+        const newJugador = new jugadorGoles({
+            nombre: arrayJugadores[i],
+            goles: arrayGoles,
+            total: req.body.Liga.GOLEADORESHISTORICO.Jugadores[arrayJugadores[i]][arrayKeysGoles[arrayKeysGoles.length - 1]]
+        })
+        jugadores.push(newJugador)
+    }
+    const responsefinal = new competicionLiga({
+        nombre: arrayCompeticion[0],
+        tipodatos: arrayTipos[0],
+        Jugadores: jugadores
+    })
+    res.send(responsefinal)
+    // await newJugador.save()
 }
 competicionController.updateJugador = async (req, res) => {
-    const buscado = await competicion.findByIdAndUpdate(req.params.id, req.body)
+    const buscado = await competicionLiga.findByIdAndUpdate(req.params.id, req.body)
     res.send(buscado);
 }
 
 competicionController.deleteJugador = async (req, res) => {
-    await competicion.findByIdAndDelete(req.params.id)
+    await competicionLiga.findByIdAndDelete(req.params.id)
     res.send('Jugador borrado');
 }
 

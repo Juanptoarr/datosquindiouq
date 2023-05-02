@@ -1,9 +1,9 @@
 const { Router } = require('express');
 const router = Router();
 
-const jugadoresController = require('../controllers/jugadores.controller')
+const jugadoresController = require('../controllers/competicion.controller')
 
-router.get('/',jugadoresController.getJugadores)
+router.get('/',jugadoresController.getCompeticiones)
 router.post('/',jugadoresController.createJugador)
 router.put('/:id',jugadoresController.updateJugador)
 router.delete('/:id',jugadoresController.deleteJugador)

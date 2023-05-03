@@ -1,0 +1,38 @@
+<!-- Sección de información -->
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <p>Datos el milagroso se encarga de ilustrar la información histórica del Deportes Quindío.</p>
+    </div>
+    <div class="col-md-6 d-flex justify-content-end">
+      <a routerLink="/deportes-quindio">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/ESCUDO_DEP_QUINDIO_2023.png" alt="Deportes Quindío" class="img-fluid quindio-logo">
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<!-- Sección de filtros -->
+<div class="container mt-5">
+  <div class="row">
+    <div class="col-md-12">
+      <h2>Por favor, selecciona la opción que deseas ver:</h2>
+      <form>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="filtro" id="filtro-goles" value="goles" [(ngModel)]="filtro">
+          <label class="form-check-label" for="filtro-goles">
+          <i class="bi bi-trophy"></i>Goles
+          </label>
+        </div>
+        <div class="form-check">
+          <input class="form-check-input" type="radio" name="filtro" id="filtro-participaciones" value="participaciones" [(ngModel)]="filtro">
+          <label class="form-check-label" for="filtro-participaciones">
+          <i class="bi bi-graph-up"></i> Participaciones
+          </label>
+        </div>
+        <a (click)="limpiarPagina()" [routerLink]="filtro === 'goles' ? '/goles' : '/participaciones'" class="btn btn-primary">Buscar</a>
+      </form>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,35 @@
+###
+GET http://localhost:8000/api/jugadores/643f73b4834993e9646c25cd
+
+###
+GET http://localhost:8000/api/jugadores
+
+###
+POST http://localhost:8000/api/jugadores
+Content-Type: application/json
+
+{
+  "Liga": {
+    "GOLEADORESHISTORICO": {
+      "Jugadores": {
+        "1 BRAYAN ANDRES CEBALLOS JIMENEZ": {
+          "2021": 1,
+          "TOTAL": 1
+        },
+        "1 CARLOS JOSE SOSA MORENO": {
+          "2021": 2,
+          "TOTAL": 2
+        },
+        "1 JAIRO ROY CASTILLO ESPINOSA": {
+          "2013": 1,
+          "2021": 4,
+          "2013_1": 2,
+          "TOTAL": 7
+        }
+      }
+    }
+  }
+  }
+
+###
+DELETE http://localhost:8000/api/jugadores/643f73b4834993e9646c25cd

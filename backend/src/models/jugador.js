@@ -1,12 +1,13 @@
 const {Schema, model } = require('mongoose');
 
+
 const jugadorSchema = new Schema({
-    nombre:{type:String,required: true},
-    goles:{type: Number,require: true},
-    fecha_vinculacion:{type: Date}
-},{
-    timestamps:true,
-    versionKey:false
+   nombre:{type: String,required: true},
+   contador:[{
+    anio:{type:String},
+    num:{type: Number}
+   }],
+   total:{type:Number}
 })
 
-module.exports = model('Jugador', jugadorSchema)
+module.exports = model('jugadorSchema', jugadorSchema)

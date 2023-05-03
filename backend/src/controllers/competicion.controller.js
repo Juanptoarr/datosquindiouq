@@ -1,6 +1,6 @@
 const competicionController = {}
 const competicionLiga = require('../models/competicionLiga')
-const jugadorGoles = require('../models/jugadorGoles')
+const jugadorGoles = require('../models/jugador')
 
 competicionController.getCompeticiones = async (req, res) => {
 
@@ -13,41 +13,35 @@ competicionController.getJugador = async (req, res) => {
 }
 competicionController.createJugador = async (req, res) => {
     const arrayCompeticion = Object.keys(req.body);
-    const arrayTipos = Object.keys(req.body[arrayCompeticion[0]])
-    const arrayJugadores = Object.keys(req.body[arrayCompeticion[0]][arrayTipos[0]].Jugadores);
-    if (arrayCompeticion.includes('Liga')) {
-        if (arrayTipos.includes('GOLEADORESHISTORICO')) {
-            console.log('GOLEADORESHISTORICO')
-        }
-        if (arrayTipos.includes('PARTICIPACIONESHISTORICO')) {
-            console.log('PARTICIPACIONESHISTORICO')
+    for (let i = 0; i < arrayCompeticion.length; i++) {
+        const arrayTipos = Object.keys(req.body[arrayCompeticion[i]])
+        for (let j = 0; j < arrayTipos.length; j++) {
+            const arrayJugadores = Object.keys(req.body[arrayCompeticion[i]][arrayTipos[j]].Jugadores);
+            const jugadores = [];
+            for (let k = 0; k < arrayJugadores.length; k++) {
+                const arrayKeysContador = Object.keys(req.body[arrayCompeticion[i]][arrayTipos[j]].Jugadores[arrayJugadores[k]])
+                const arrayContador = []
+                for (let l = 0; l < arrayKeysContador.length - 1; l++) {
+                    const contadoranio = { anio: arrayKeysContador[l], num: req.body[arrayCompeticion[i]][arrayTipos[j]].Jugadores[arrayJugadores[k]][arrayKeysContador[l]] }
+                    arrayContador.push(contadoranio)
+                }
+                const newJugador = new jugadorGoles({
+                    nombre: arrayJugadores[k],
+                    contador: arrayContador,
+                    total: req.body[arrayCompeticion[i]][arrayTipos[j]].Jugadores[arrayJugadores[k]][arrayKeysContador[arrayKeysContador.length - 1]]
+                })
+                jugadores.push(newJugador)
+            }
+            const competicion = new competicionLiga({
+                nombre: arrayCompeticion[i],
+                tipodatos: arrayTipos[j],
+                Jugadores: jugadores
+            })
+            await competicion.save()
         }
     }
-    if (arrayCompeticion.includes('Torneo')) {
-        console.log('Torneo')
-    }
-    const jugadores = [];
-    for (let i = 0; i < arrayJugadores.length; i++) {
-        const arrayKeysGoles = Object.keys(req.body.Liga.GOLEADORESHISTORICO.Jugadores[arrayJugadores[i]])
-        const arrayGoles = []
-        for (let j = 0; j < arrayKeysGoles.length - 1; j++) {
-            const golesanio = { anio: arrayKeysGoles[j], numGoles: req.body.Liga.GOLEADORESHISTORICO.Jugadores[arrayJugadores[i]][arrayKeysGoles[j]] }
-            arrayGoles.push(golesanio)
-        }
-        const newJugador = new jugadorGoles({
-            nombre: arrayJugadores[i],
-            goles: arrayGoles,
-            total: req.body.Liga.GOLEADORESHISTORICO.Jugadores[arrayJugadores[i]][arrayKeysGoles[arrayKeysGoles.length - 1]]
-        })
-        jugadores.push(newJugador)
-    }
-    const responsefinal = new competicionLiga({
-        nombre: arrayCompeticion[0],
-        tipodatos: arrayTipos[0],
-        Jugadores: jugadores
-    })
-    res.send(responsefinal)
-    // await newJugador.save()
+    
+    res.send('Guardado exitosamente')
 }
 competicionController.updateJugador = async (req, res) => {
     const buscado = await competicionLiga.findByIdAndUpdate(req.params.id, req.body)
@@ -56,7 +50,7 @@ competicionController.updateJugador = async (req, res) => {
 
 competicionController.deleteJugador = async (req, res) => {
     await competicionLiga.findByIdAndDelete(req.params.id)
-    res.send('Jugador borrado');
+    res.send('Competicion borrada');
 }
 
 module.exports = competicionController

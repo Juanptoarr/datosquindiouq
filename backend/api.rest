@@ -27,9 +27,72 @@ Content-Type: application/json
           "TOTAL": 7
         }
       }
+    },
+    "PARTICIPACIONESHISTORICO": {
+      "Jugadores": {
+        "1 ALEXIS  SERNA ROMAÑA": {
+          "2021": 12,
+          "TOTAL": 12
+        },
+        "1 BRAYAN ANDRES CEBALLOS JIMENEZ": {
+          "2021": 11,
+          "TOTAL": 11
+        },
+        "1 LUIS ALBERTO ESTACIO VALVERDE": {
+          "2002": 4,
+          "2003": 13,
+          "2021": 13,
+          "2002_1": 9,
+          "TOTAL": 39
+        }
+      }
+    }
+  },
+  "Torneo": {
+    "GOLEADORESHISTORICO": {
+      "Jugadores": {
+        "1 ALEXIS SERNA ROMAÑA": {
+          "2022": 2,
+          "2023": 3,
+          "TOTAL": 5
+        },
+        "1 ARIEL BONIFACIO ROA BENITEZ": {
+          "2023": 1,
+          "TOTAL": 1
+        },
+        "1 CRISTIAN ANDRES MINA REYES": {
+          "2015": 2,
+          "2016": 3,
+          "2017": 6,
+          "2018": 6,
+          "2019": 1,
+          "2021": 3,
+          "2022": 2,
+          "2015_1": 2,
+          "TOTAL": 25
+        }
+      }
+    },
+    "PARTICIPACIONESHISTORICO": {
+      "Jugadores": {
+        "1 ALEXIS SERNA ROMAÑA": {
+          "2020": 21,
+          "2021": 5,
+          "2022": 23,
+          "2023": 12,
+          "TOTAL": 61
+        },
+        "1 ARIEL BONIFACIO ROA BENITEZ": {
+          "2023": 4,
+          "TOTAL": 4
+        },
+        "1 CARLOS ALBERTO ROMAÑA MENA": {
+          "2023": 5,
+          "TOTAL": 5
+        }
+      }
     }
   }
-  }
-
+}
 ###
 DELETE http://localhost:8000/api/jugadores/643f73b4834993e9646c25cd

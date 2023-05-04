@@ -6,6 +6,5 @@ fetch('http://localhost:8000/api/jugadores', {
   },
   body: JSON.stringify(data)
 })
-  .then(response => response.json())
-  .then(data => console.log(data))
+  .then(response => console.log(response.message))
   .catch(error => console.error(error));

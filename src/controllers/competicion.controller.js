@@ -1,13 +1,14 @@
 const competicionController = {}
-const competicion = require('../models/competicion')
+const competicionLiga = require('../models/competicionLiga')
 const jugadorGoles = require('../models/jugador')
 
 competicionController.getCompeticiones = async (req, res) => {
-    const results = await competicion.find()
+
+    const results = await competicionLiga.find()
     res.status(200).json(results);
 }
 competicionController.getJugador = async (req, res) => {
-    const buscado = await competicion.findById(req.params.id)
+    const buscado = await competicionLiga.findById(req.params.id)
     res.send(buscado);
 }
 competicionController.createJugador = async (req, res) => {
@@ -29,28 +30,26 @@ competicionController.createJugador = async (req, res) => {
                     contador: arrayContador,
                     total: req.body[arrayCompeticion[i]][arrayTipos[j]].Jugadores[arrayJugadores[k]][arrayKeysContador[arrayKeysContador.length - 1]]
                 })
-                //REPITIENDO DATOS, TENER EN CUENTA PARA ENTREGAS FUTURAS
-                newJugador.save()
                 jugadores.push(newJugador)
             }
-            const newCompeticion = new competicion({
+            const competicion = new competicionLiga({
                 nombre: arrayCompeticion[i],
                 tipodatos: arrayTipos[j],
                 Jugadores: jugadores
             })
-            await newCompeticion.save()
+            await competicion.save()
         }
     }
     
     res.send('Guardado exitosamente')
 }
 competicionController.updateJugador = async (req, res) => {
-    const buscado = await competicion.findByIdAndUpdate(req.params.id, req.body)
+    const buscado = await competicionLiga.findByIdAndUpdate(req.params.id, req.body)
     res.send(buscado);
 }
 
 competicionController.deleteJugador = async (req, res) => {
-    await competicion.findByIdAndDelete(req.params.id)
+    await competicionLiga.findByIdAndDelete(req.params.id)
     res.send('Competicion borrada');
 }
 

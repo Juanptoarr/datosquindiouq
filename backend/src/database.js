@@ -1,6 +1,7 @@
 const mongoose = require('mongoose')
+const URL_CONNECT = 'mongodb+srv://juanptorresa:buPew2ux50MKLrBQ@datosquindio.imb6lqg.mongodb.net/?retryWrites=true&w=majority'
 
-mongoose.connect("mongodb://127.0.0.1:27017/depquindio",{
+mongoose.connect(URL_CONNECT,{
     useUnifiedTopology: true,
     useNewUrlParser: true
 })

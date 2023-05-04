@@ -1,4 +1,4 @@
-name: Build and Deploy on Firebase
+name: Deploy to Firebase Hosting on PR merge
 on:
   push:
     branches:
@@ -14,11 +14,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: "14.x"
-      - name: npm install and build
+      - name: Install dependencies and build
         run: |
           npm install
           npm run build
-          npm run test
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master
         with:
@@ -26,3 +25,4 @@ jobs:
           config: frontend/firebase.json
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+

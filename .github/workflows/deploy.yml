@@ -2,7 +2,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - Victor
+      - main
 
 jobs:
   build:

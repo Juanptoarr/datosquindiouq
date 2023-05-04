@@ -22,7 +22,3 @@ jobs:
       uses: w9jds/firebase-action@master
       with:
         args: deploy --project ${{ secrets.MY_FIREBASE_PROJECT }} --token ${{ secrets.MY_FIREBASE_TOKEN }}
-
-secrets:
-  MY_FIREBASE_PROJECT: datos-milagroso
-  MY_FIREBASE_TOKEN: MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCg3G1cgDWSz5u2\nYmZRo8SU/VFzYbVR13FrRvIcB9lS6vsK5ED1imFUvIyHopRH3AUbyXsjDykwCt6M\ny6d0kq1P7yTijsVNDK0Haiottv5OoUOPv2BYOkVlreBS0dnVL9BrASj1CB+ExgdL\niduId8UEMlzqIeHrxRyjEtbSrASZULGVARsRXBLrkOSHMq/jYu09onZ/BbjdNUUQ\n6X9zihOKzx+J3pkgpxJ8EVo9Ga9yzJvL4ai5esc7TQXM5ICe9wjSmGvw4gdvqz0H\nLMQiw2tYBr4aYEx21ZYIZCGrt+V0Abgd0wX8glaeUpeKwnTb09xBHdd6V9xO/SDr\nKaQMBddRAgMBAAECggEAScL55M4ngsPvF3FEkNADLvx/smRN9BLR/8qe70qMFVEJ\nv4NN5CnJmsUAvZtH2jGiKA06CSgFD3IUfcRO643sqfgzVi34e+3Bk+JTJ/Y+44hg\nBhTP1XUW6FqUP/XZKMANlluIT9+jMEtsAe/belbNQTDk2TmjMm0GxiI33o+hZjlX\nfMRdQS2nO34hSRAlmqa2NpTfOzYszD2IWV0

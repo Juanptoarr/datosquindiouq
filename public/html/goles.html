@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Tabla de goles</title>
+  <style>
+    body{
+      background-color: rgba(15,37,55,255)
+    }
+
+    header {
+      background-color: rgb(40,52,76);
+      display: flex;
+      justify-content: center;
+      padding: 30px;
+    }
+    .left {
+      position: absolute;
+      left: 50px;
+      color: white;
+    }
+    nav {
+      display: flex;
+      gap: 20px;      
+    }
+
+    a{
+      color: white;
+    }
+
+    /* Estilos básicos para la tabla */
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid #174e67;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #174e67;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="../index.html" class="left">Datos el milagroso</a>
+    <nav>
+      <a href="../index.html">Inicio</a>
+      <a href="#">Deportes Quindío</a>
+      <a href="./goles.html">Goles</a>
+      <a href="./participaciones.html">Participaciones</a>
+    </nav>
+  </header>
+
+  <div id="contenedor">
+  <script src="../js/transport.js"> </script>
+  <script src="../js/change_goles.js"> </script>
+</body>
+</html>

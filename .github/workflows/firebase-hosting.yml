@@ -1,0 +1,25 @@
+name: Deploy to Firebase Hosting
+
+on:
+  push:
+    branches:
+      - main
+jobs:
+        build_and_deploy:
+          runs-on: ubuntu-latest
+          steps:
+            - uses: actions/checkout@v2
+            - name: Use Node.js 14.x
+              uses: actions/setup-node@v2
+              with:
+                node-version: '14.x'
+            - name: Install Dependencies
+              run: npm install
+            - name: Build
+              run: npm run build
+            - name: Deploy to Firebase
+              uses: w9jds/firebase-action@master
+              with:
+                args: deploy --only hosting 
+              env:
+                FIREBASE_TOKEN: MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpuR3KuOhRw42Y\n2uECH8hCdIcKSGSu8X+Nbl80wrFUOhjW4qW+z32xNn8N+ZUS2FzxUQU5g/VL9ZFC\nAxar3/kesJj69p26i7BFOOy2lbXz4zwI/wPPAEeMclGQXi1QyPq96EPJQJGfCWht\n/tDcX1Kq+nGD0h04pJIo3PAQiB0WJXPKVr1rAEmxAh1OH7SC1N42zZA6SAmwJJiJ\n4RCpz1xND7qhXSufvmyKUKEp/1G1jpp3bJ/BvdPc07upDYDh4vISGBoeODLSEQHL\nNSbD+xvQCW5JFO/Vt4i0USkAEF3HjRJnXs7b6BUwG6RcKAL246pSy/x/wmoXKQvh\n47goxwUDAgMBAAECggEAOOjIc4wy4g+3L/Tck9DCXn4iNbF2iS6S/YJvzAooWbyt\nTYhr2SJL3BsQ2UfB07LW31eyb8mue4zY6xCMDo+oQcEnWqdM1hs2vM9MmCB1BVVB\ncSbJSSSn2REQBl99xGPPp9P0vsu2yGPoL1HNCMexuYEGhRP0FmUgWTFUEccCMcVK\nIuA6y18ipkZ0MVwwwSOHWw4pK64mdpRagSuuBA0LHj9XI0vPwHqO+3MLQVNYKZyS\n1r1zkkIm0FaPR5PfJgG2BGnJ7k0/Qk0JetDDpWxeg7CGOBMoRhNtOl3XHxPWDnx6\nsLfctGm0WrHjLuvvoJ7/WhWcrrJaYxo2gUrKAfnwEQKBgQDtrKFp8IeNmFqakjW9\nDKFp4gTOOlwuAAfJkfGPPocguf2bUROxWfzPGTgRlk4mCi/x71Xrhxu7LMNmD206\nvgYVOjSxlZzd81mr0IabqcVZW3jsPJCex36aIgnZ1v0Jqt7rHIORhR7UrsGdV0ap\n3U67fgiBXbMfr7qE3CUYfDmU+wKBgQC2zzh+J9GKF2gYsJv+mV4q8YwApDZANysi\n8cJWflEhi7/fI+QXMHIQ75NK99Yy8HR5CFL5teyVSUNsHf+s/u9lm7Jz5BPOH9KE\nVa+HOIueLYNbTpbJ8NV8xNNL+yc8dadZGpLy6wu9LLbpPrIjMNO8ewbyUQfPhMsc\nhBHJZ9gBmQKBgFD+6asuuyM37niKpyGb8k4hJj4ZiVxryjuZLtcAGhC/EXwirzFb\nV1pEX+Uuccdo5VnvlDpFut+Yq6ZWT4UbSPtm8JosQF8rFT4GPDlEK+r9z0HCig5y\nMeTZAL5qE6V9w6Yf+35V/WHBhF3YZk5xCum+U6uygN6lhkzMsR+dBgqNAoGBALav\nFjFb8VYiVfB2bS1cbnJTuCjb8Sry9rSRDDgLO2Bem3uODl3uF8882uDMEs4M5Rge\nbW0FlEsLT8k3oU1r5iiQEyElB3Ww71s3lZV3uG515RLV0nIzreRlfRItBeSxXm74\n02jV4oFFsfQcpz/rh2yPNT3qI/gJKEBy6qNulrnhAoGAeQPb+rwaiZzBtzaJKBUC\na9/hHfhqDMctk6SUzo1PZTHCbjIyoqMwSBBWX6s6rMLN/bY4IkRJkiEOMHCjAoq4\naWxaGJM4j9xn6Kidjq1eWf3S/EmFH0uLc1N835NUYV1/yMrPCz9h6DTLkYQtlO3R\nKqaZYfgYPYClnDcuna4BalQ=

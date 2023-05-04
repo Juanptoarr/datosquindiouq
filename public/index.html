@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Inicio</title>
+  <style>
+    body{
+      background-color: rgba(15,37,55,255)
+    }
+
+    header {
+      background-color: rgb(40,52,76);
+      display: flex;
+      justify-content: center;
+      padding: 30px;
+    }
+    .left {
+      position: absolute;
+      left: 50px;
+      color: white;
+    }
+    nav {
+      display: flex;
+      gap: 20px;      
+    }
+
+    a{
+      color: white;
+    }
+
+    .text-container{
+      height: 25em;
+      color: white;
+      display: flex;
+      justify-content: center;
+      background-color: rgba(76,155,232,255);
+    }
+
+    .text{
+      font-size: 1.5em;
+      margin-top: 5em;
+      margin-left: 10em;
+      margin-right: 10em;
+      justify-content: center;
+    }
+
+    .image{
+      margin-top: 2em;
+      margin-right: 10em;
+      width: 15em;
+      height: 15em;
+    }
+
+    .checkbox-zone{
+      background-color: rgb(40,52,76);      
+    }
+
+    .text-checkbox {
+      justify-content: center;
+      align-items: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="#" class="left">Datos el milagroso</a>
+    <nav>
+      <a href="#">Inicio</a>
+      <a href="#">Deportes Quindío</a>
+      <a href="./html/goles.html">Goles</a>
+      <a href="./html/participaciones.html">Participaciones</a>
+    </nav>
+  </header>
+
+  <div class="text-container">
+    <div><p class="text">Datos el milagroso es un proyecto que se encarga de ilustrar la información histórica del Deportes Quindío. Esta información es obtenida a partir de un periodista local que realiza seguimiento continuo a los datos históricos del Deportes Quindío.</p></div>
+    <div><img class="image" src="assets/ESCUDO_DEP_QUINDIO_2023.png"></div>
+  </div>
+
+  <script src="./js/transport.js"> </script>
+  <script src="./js/change.js"> </script>
+</body>
+</html>

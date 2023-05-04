@@ -31,8 +31,7 @@ jobs:
 
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master
-        with: 
-           args: deploy --only hosting --project "datos-milagroso" --config frontend/firebase.json
-        env:
-           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+        with:  
+          args: deploy --only hosting --project "datos-milagroso" --token ${{ secrets.FIREBASE_TOKEN }}
 
+ 

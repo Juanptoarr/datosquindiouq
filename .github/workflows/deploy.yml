@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Build and Deploy on Firebase
 on:
   push:
     branches:
@@ -36,7 +36,7 @@ jobs:
           name: dist
           path: frontend/dist
           working-directory: frontend
-      - name: Deploy to Firebase
+      - name: Deploy to Firebase 
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
          entryPoint: frontend/firebase.json

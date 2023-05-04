@@ -4,8 +4,8 @@ const jugadorGoles = require('../models/jugador')
 
 competicionController.getCompeticiones = async (req, res) => {
 
-    const results = await competicion.find()
-    res.status(200).json(results);
+    //const results = await competicion.find()
+    res.status(200).end('HOLA MUNDO');
 }
 competicionController.getJugador = async (req, res) => {
     const buscado = await competicion.findById(req.params.id)

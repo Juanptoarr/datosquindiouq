@@ -35,9 +35,11 @@ jobs:
         with:
           name: dist
           path: frontend/dist
+          working-directory: frontend
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master
         with:
-          args: deploy --only hosting
+          args: deploy --only hosting --project <your-project-id> --token ${{ secrets.FIREBASE_TOKEN }} --firebase-json frontend/firebase.json
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          working-directory: frontend

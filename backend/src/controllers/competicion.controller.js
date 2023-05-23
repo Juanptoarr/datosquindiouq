@@ -2,7 +2,7 @@ const competicionController = {}
 const competicion = require('../models/competicion')
 const jugadorGoles = require('../models/jugador')
 
-competicionController.getCompeticiones = async (req, res) => {
+competicionController.getCompeticiones = (req, res) => {
 
     //const results = await competicion.find()
     res.status(200).end('HOLA PROFESORCITO FABER 2.0'); 

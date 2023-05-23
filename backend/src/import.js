@@ -82,10 +82,10 @@ fs.readdir(archivosPath, (err, files) => {
   // Guardar el objeto "result" en un archivo JSON con el nombre "historico.json"
   const jsonFileName = 'Historico Goles y Participaciones.json';
   const jsonFilePath = path.join(archivosPath, jsonFileName);
-  fs.writeFile(jsonFilePath, JSON.stringify(result,null, 2) + os.EOL, (err) => {
-    if (err) {
+  fs.writeFile(jsonFilePath, JSON.stringify(result,null, 2) + os.EOL, (error) => {
+    if (error) {
       console.error(`Error al guardar el archivo \\${jsonFileName}:`);
-      console.error(err);
+      console.error(error);
       return;
     }
     console.log(`Archivo \\${jsonFileName} guardado correctamente`);

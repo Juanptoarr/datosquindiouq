@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnIt } from '@angular/core';
 
 @Component({
   selector: 'app-root',

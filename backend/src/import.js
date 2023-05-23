@@ -40,11 +40,11 @@ fs.readdir(archivosPath, (err, files) => {
       const fileName = path.parse(file).name; // Obtener el nombre del archivo sin la extensión
 
       // Crear la estructura de objeto adecuada en "result" si no existe aún
-      if (!result.hasOwnProperty(sheetName)) {
+      if (!Object.prototype.hasOwnProperty.call(result, sheetName)) {      
         result[sheetName] = {};
       }
 
-      if (!result[sheetName].hasOwnProperty(fileName)) {
+      if (!Object.prototype.hasOwnProperty.call(result[sheetName], fileName)) {
         result[sheetName][fileName] = { "Jugadores": {} };
       }
 
@@ -63,7 +63,7 @@ fs.readdir(archivosPath, (err, files) => {
         const jugadorName = nameValues.join(' ');
 
         // Crear la estructura de objeto adecuada en "result" si no existe aún
-        if (!result[sheetName][fileName]["Jugadores"].hasOwnProperty(jugadorName)) {
+        if (!Object.prototype.hasOwnProperty.call(result[sheetName][fileName]["Jugadores"], jugadorName)) {
           result[sheetName][fileName]["Jugadores"][jugadorName] = {};
         }
 

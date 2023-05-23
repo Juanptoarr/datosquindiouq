@@ -4,8 +4,38 @@ const jugadorGoles = require('../models/jugador')
 
 competicionController.getCompeticiones = async (req, res) => {
 
-    //const results = await competicion.find()
-    res.status(200).end('HOLA PROFESORCITO FABER 2.0'); 
+    const resultado = await competicion.find()
+        .populate('Jugadores') // Poblar la referencia a los jugadores
+
+    // Ajustar el JSON para eliminar el campo _id
+    const ligasSinId = resultado.map(liga => {
+        const { _id, ...ligaSinId } = liga.toObject();
+        return ligaSinId;
+    });
+    res.json(ligasSinId)
+}
+
+competicionController.getCompeticionTipoDatos = async (req, res) => {
+
+    const CompeticionBusqueda = req.params.competicion;
+    const tipoDatosBusqueda = req.params.tipodatos;
+    const condiciones = {};
+
+    if (CompeticionBusqueda === 'Liga' || CompeticionBusqueda == 'Torneo') {
+        condiciones.nombre = CompeticionBusqueda;
+    }
+
+    if (tipoDatosBusqueda === 'GOLEADORESHISTORICO' || tipoDatosBusqueda === 'PARTICIPACIONESHISTORICO') {
+        condiciones.tipodatos = tipoDatosBusqueda;
+    }
+    const resultado = await competicion.find(condiciones)
+        .populate('Jugadores') // Poblar la referencia a los jugadores
+    // Ajustar el JSON para eliminar el campo _id
+    const ligasSinId = resultado.map(liga => {
+        const { _id, ...ligaSinId } = liga.toObject();
+        return ligaSinId;
+    });
+    res.json(ligasSinId)
 }
 competicionController.getJugador = async (req, res) => {
     const buscado = await competicion.findById(req.params.id)
@@ -42,7 +72,7 @@ competicionController.createJugador = async (req, res) => {
             await newCompeticion.save()
         }
     }
-    
+
     res.send('Guardado exitosamente')
 }
 competicionController.updateJugador = async (req, res) => {

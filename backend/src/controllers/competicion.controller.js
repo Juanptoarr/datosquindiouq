@@ -2,7 +2,7 @@ const competicionController = {}
 const competicion = require('../models/competicion')
 const jugadorGoles = require('../models/jugador')
 
-competicionController.getCompeticiones = (req, res) => {
+competicionController.getCompeticiones = async (req, res) => {
 
     const resultado = await competicion.find()
         .populate('Jugadores') // Poblar la referencia a los jugadores

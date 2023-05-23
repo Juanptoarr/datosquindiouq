@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
 })
 export class JugadoresComponent implements OnInit {
 
-  filtro: string = "";
+  filtro = "";
 
   constructor(private router: Router) { }
 

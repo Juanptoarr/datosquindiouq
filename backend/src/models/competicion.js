@@ -1,5 +1,4 @@
 const {Schema, model } = require('mongoose');
-const jugadorSchema = require('./jugador')
 
 const ligaSchema = new Schema({
     nombre:{type:String},

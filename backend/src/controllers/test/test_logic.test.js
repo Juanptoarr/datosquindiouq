@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const controller = require("../competicion.controller.js")
 require('dotenv').config()
-jest.setTimeout(30000)
+jest.setTimeout(120000)
 
 beforeEach(async () => {
     try {

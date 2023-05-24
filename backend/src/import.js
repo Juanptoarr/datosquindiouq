@@ -40,11 +40,11 @@ fs.readdir(archivosPath, (err, files) => {
       const fileName = path.parse(file).name; // Obtener el nombre del archivo sin la extensión
 
       // Crear la estructura de objeto adecuada en "result" si no existe aún
-      if (!result.hasOwnProperty(sheetName)) {
+      if (!Object.prototype.hasOwnProperty.call(result, sheetName)) {      
         result[sheetName] = {};
       }
 
-      if (!result[sheetName].hasOwnProperty(fileName)) {
+      if (!Object.prototype.hasOwnProperty.call(result[sheetName], fileName)) {
         result[sheetName][fileName] = { "Jugadores": {} };
       }
 
@@ -63,7 +63,7 @@ fs.readdir(archivosPath, (err, files) => {
         const jugadorName = nameValues.join(' ');
 
         // Crear la estructura de objeto adecuada en "result" si no existe aún
-        if (!result[sheetName][fileName]["Jugadores"].hasOwnProperty(jugadorName)) {
+        if (!Object.prototype.hasOwnProperty.call(result[sheetName][fileName]["Jugadores"], jugadorName)) {
           result[sheetName][fileName]["Jugadores"][jugadorName] = {};
         }
 
@@ -82,10 +82,10 @@ fs.readdir(archivosPath, (err, files) => {
   // Guardar el objeto "result" en un archivo JSON con el nombre "historico.json"
   const jsonFileName = 'Historico Goles y Participaciones.json';
   const jsonFilePath = path.join(archivosPath, jsonFileName);
-  fs.writeFile(jsonFilePath, JSON.stringify(result,null, 2) + os.EOL, (err) => {
-    if (err) {
+  fs.writeFile(jsonFilePath, JSON.stringify(result,null, 2) + os.EOL, (error) => {
+    if (error) {
       console.error(`Error al guardar el archivo \\${jsonFileName}:`);
-      console.error(err);
+      console.error(error);
       return;
     }
     console.log(`Archivo \\${jsonFileName} guardado correctamente`);
